@@ -1,0 +1,35 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>superclub.online</title>
+  <link rel="icon" href="{{ url_for('static', path='favicon.ico') }}" type="image/x-icon">
+  <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+  <link rel="stylesheet" href="/static/style.css">
+  <script src="/static/htmx.min.js" integrity="sha384-wS5l5IKJBvK6sPTKa2WZ1js3d947pvWXbPJ1OmWfEuxLgeHcEbjUUA5i9V5ZkpCw" crossorigin="anonymous"></script>
+</head>
+<body>
+  <nav>
+    <div class="brand">superclub.online</div>
+    {% if user %}
+      <div class="user">{{user.username}}</div>
+      <div class="stats">
+        <div class="assets">{{user.assets}} M</div>
+        <div class="status"><i class='bx bxs-star' ></i>{{user.status}}</div>
+        <div class="potential"><i class='bx bx-star' ></i></i>{{user.potential}}</div>
+      </div>
+      <div>
+        <a href="/auth/logout.html">Spiel beenden</a>
+    {% else %}
+      <a href="/auth/login.html">Neues Spiel starten</a>
+    {% endif %}
+      </div>
+  </nav>
+
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+
+</body>

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: green;
+    color: yellowgreen;
+}
+
+nav {
+    height: 80px;
+    width: 100%;
+    border-bottom: yellowgreen thin solid;
+    display: flex;
+    justify-content: space-between;
+    padding: 1.2rem;
+}
+nav .brand {
+    font-size: 1.8rem;
+}
+nav .stats {
+    display: flex;
+}

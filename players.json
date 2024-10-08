@@ -1,8 +1,8 @@
 [
-  { "name": "Manuel Neuer", "position": "GOALKEEPER", "nr": 1, "club": "FCB", "status": 4, "potential": 4, "chemistry": 0.5 },
-  { "name": "Florian Wirtz", "position": "MIDFIELDER", "nr": 10, "club": "B04", "status": 4, "potential": 4, "chemistry": 0.5 },
-  { "name": "Robert Andrich", "position": "MIDFIELDER", "nr": 8, "club": "B04", "status": 4, "potential": 4, "chemistry": 0.5 },
-  { "name": "Granit Xhaka", "position": "MIDFIELDER", "nr": 34, "club": "B04", "status": 4, "potential": 4, "chemistry": 0.5 },
-  { "name": "Jonas Hofmann", "position": "MIDFIELDER", "nr": 7, "club": "B04", "status": 4, "potential": 4, "chemistry": 0.5 },
-  { "name": "Nikola Vasilj", "position": "GOALKEEPER", "nr": 22, "club": "STP", "status": 4, "potential": 4, "chemistry": 0.5 }
+  { "id": "1", "name": "Manuel Neuer", "position": "GOALKEEPER", "nr": 1, "club": "FCB", "status": 4, "potential": 4, "chemistry": 0.5 },
+  { "id": "2", "name": "Florian Wirtz", "position": "MIDFIELDER", "nr": 10, "club": "B04", "status": 4, "potential": 4, "chemistry": 0.5 },
+  { "id": "3", "name": "Robert Andrich", "position": "MIDFIELDER", "nr": 8, "club": "B04", "status": 4, "potential": 4, "chemistry": 0.5 },
+  { "id": "4", "name": "Granit Xhaka", "position": "MIDFIELDER", "nr": 34, "club": "B04", "status": 4, "potential": 4, "chemistry": 0.5 },
+  { "id": "5", "name": "Jonas Hofmann", "position": "MIDFIELDER", "nr": 7, "club": "B04", "status": 4, "potential": 4, "chemistry": 0.5 },
+  { "id": "6", "name": "Nikola Vasilj", "position": "GOALKEEPER", "nr": 22, "club": "STP", "status": 4, "potential": 4, "chemistry": 0.5 }
 ]
