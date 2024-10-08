@@ -1,0 +1,5 @@
+[
+    { "id": "FCB", "name": "FC Bayern München", "stadium": "Allianz Arena", "logo": "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000G.svg"},
+    { "id": "B04", "name": "Bayer 04 Leverkusen", "stadium": "BayArena", "logo": "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000B.svg"},
+    { "id": "STP", "name": "FC St. Pauli", "stadium": "Millerntor-Stadion", "logo": "https://www.bundesliga.com/assets/clublogo/DFL-CLU-00000H.svg"}
+]
