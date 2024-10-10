@@ -1,0 +1,28 @@
+<div id="stats" hx-swap-oob="true">
+    <div class="assets">{{user.assets}} M</div>
+    <div class="status"><i class='bx bxs-star' ></i>{{user.status}}</div>
+    <div class="potential"><i class='bx bx-star' ></i></i>{{user.potential}}</div>
+    <div class="expires">expires: </i>{{user.expires}}</div>
+</div>
+
+<div id="draft" hx-swap-oob="true">
+    <h1>draft</h1>
+    <div id="draft_wrapper">
+    {% set action_label = 'select' %}
+    {% for player in players %}
+        {% set action = "/select-player/" + player.id %}
+        {% include 'player_card.html' %}
+    {% endfor %}
+</div>
+</div>
+
+<div id="deck" hx-swap-oob="true">
+    <h1>deck</h1>
+    <div id="deck_wrapper">
+    {% set action_label = 'deselect' %}
+    {% for player in user.players %}
+    {% set action = "/deselect-player/" + player.id %}
+        {% include 'player_card.html' %}
+    {% endfor %}  
+    </div>
+</div>

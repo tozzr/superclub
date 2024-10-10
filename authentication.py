@@ -2,9 +2,9 @@ from datetime import datetime, timedelta
 from typing import Annotated
 
 import jwt
-from jwt.exceptions import InvalidTokenError, PyJWKError
-from fastapi import APIRouter, Depends, FastAPI, HTTPException, status, Request
-from fastapi.responses import Response, HTMLResponse, JSONResponse, RedirectResponse
+from jwt.exceptions import PyJWKError
+from fastapi import APIRouter, Depends, status, Request
+from fastapi.responses import Response, RedirectResponse
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 from passlib.context import CryptContext
 from pydantic import BaseModel
@@ -29,17 +29,16 @@ def create_jw_token(data: dict):
 router = APIRouter()
 
 class User():
-    def __init__(self, username: str, assets: int | None = 100, status: int | None = 0, potential: int | None = 0):
+    def __init__(self, username: str, assets: int | None = 100, status: int | None = 0, potential: int | None = 0, expires: str | None = ''):
         self.username = username
         self.assets = assets
         self.status = status
         self.potential = potential
         self.player_ids = ''
+        self.expires = expires
         
 @router.post("/token")
-async def login_for_jwt(
-    form_data: Annotated[OAuth2PasswordRequestForm, Depends()]
-):
+async def login_for_jwt(form_data: Annotated[OAuth2PasswordRequestForm, Depends()]):
     response = RedirectResponse(url='/', status_code=status.HTTP_303_SEE_OTHER)
     save_userdata(User(form_data.username), response)
     return response
@@ -53,6 +52,9 @@ def decode_token(token: str, key: str | None = None) -> str | None:
     except PyJWKError as e:
         print(e)
         return None
+    except Exception as e:
+        print(e)
+        raise UserAnonymousException(message="user not authenticated")
     
 class Cookies(BaseModel):
     access_token: str
@@ -74,11 +76,10 @@ def get_user(request: Request) -> User | None:
     if token != None:
         username = decode_token(token, 'sub')
         expires = decode_token(token, 'exp')
-        print(f"expires: {datetime.fromtimestamp(expires)}")
         assets = decode_token(token, 'assets')
         status = decode_token(token, 'status')
         potential = decode_token(token, 'status')
-        user = User(username, assets, status, potential)
+        user = User(username, assets, status, potential, expires)
         user.player_ids = decode_token(token, 'player_ids')
         return user
     raise UserAnonymousException(message="user not authenticated")
@@ -89,7 +90,8 @@ def save_userdata(user: User, response: Response):
         "assets": user.assets,
         "status": user.status,
         "potential": user.potential,
-        "player_ids": user.player_ids
+        "player_ids": user.player_ids,
+        "exp": user.expires
     })
     response.set_cookie(key="jwt", value=jw_token, httponly=True)
     

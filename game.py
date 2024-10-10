@@ -43,7 +43,7 @@ class Club():
         self.logo = logo
 class Player():
     
-    def __init__(self, id, name, position, nr, club, status, potential, chemistry) -> None:
+    def __init__(self, id, name, position, nr, club, status, potential, chemistry, price, scouting_price) -> None:
         self.id = id
         self.name = name
         self.position = position
@@ -52,6 +52,8 @@ class Player():
         self.status = status
         self.potential = potential
         self.chemistry = chemistry
+        self.price = price
+        self.scouting_price = scouting_price
 
     def __eq__(self, other: object) -> bool:
         return self.id == other.id
@@ -63,6 +65,12 @@ def get_players():
         return players
     return []
 
+def get_player_by_id(id: str) -> Player | None:
+    for player in get_players():
+        if id == player.id:
+            return player
+    return None
+    
 def get_players_without(ids: str):
     exclude_players = get_players_for_ids(ids)
     id_list = ids.split(',')

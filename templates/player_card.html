@@ -1,0 +1,12 @@
+<div class="player_card {{player.position.lower()}}">
+    <h2>{{player.name}}</h2>
+    <div class="level">
+        {% for i in range(1, player.status) %}<i class='bx bxs-star' ></i>{% endfor %}
+        {% for i in range(player.status, player.potential) %}<i class='bx bx-star' ></i>{% endfor %}
+    </div>
+    <div class="costs">
+        <div title="price: {{player.price}} M"><i class='bx bxs-store'></i> {{player.price}} M</div>
+        <div title="scouting price: {{player.scouting_price}} M"><i class='bx bxs-binoculars'></i> {{player.scouting_price}} M</div>
+    </div>
+    <div><button hx-post="{{action}}">{{action_label}}</button></div>
+</div>

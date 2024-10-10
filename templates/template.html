@@ -15,10 +15,11 @@
     <div class="brand">superclub.online</div>
     {% if user %}
       <div class="user">{{user.username}}</div>
-      <div class="stats">
+      <div id="stats">
         <div class="assets">{{user.assets}} M</div>
         <div class="status"><i class='bx bxs-star' ></i>{{user.status}}</div>
         <div class="potential"><i class='bx bx-star' ></i></i>{{user.potential}}</div>
+        <div class="expires">expires: </i>{{user.expires}}</div>
       </div>
       <div>
         <a href="/auth/logout.html">Spiel beenden</a>
