@@ -4,6 +4,7 @@ import json
 import random
 
 id = 1
+players = []
 
 def scrape(nr: str):
     print(nr)
@@ -13,7 +14,7 @@ def scrape(nr: str):
     soup = BeautifulSoup(response.text, 'html.parser')
     table = soup.find('table', class_='standard_tabelle')
 
-    players = []
+    global players
 
     for row in table.find_all('tr')[1:]:  # Skipping the header row
         cols = row.find_all('td')
@@ -24,7 +25,7 @@ def scrape(nr: str):
             player_dict = {
                 "id": str(id),
                 "name": player_name,
-                "position": position,
+                "position": get_position(position),
                 "club": club,
                 "status": random.randint(1, 6),
                 "potential": random.randint(1, 6), 
@@ -35,16 +36,20 @@ def scrape(nr: str):
             id += 1
             players.append(player_dict)
     print(id)
-    players_json = json.dumps(players, indent=4)
 
-    #print(players_json)
-
-    # Optionally, save the JSON to a file
-    with open('players2.json', 'a') as f:
-        f.write(players_json)
-
-with open('players2.json', 'w') as f:
-        f.write("")
-                
+def get_position(pos: str):
+    if pos == "GK":
+        return "GOALKEEPER"
+    if pos == "DF":
+        return "DEFENDER"
+    if pos == "MF":
+        return "MIDFIELDER"
+    if pos == "FW":
+        return "STRIKER"
+    
 for nr in range(1,12):
     scrape(str(+nr))
+    
+players_json = json.dumps(players, indent=4)
+with open('players2.json', 'w') as f:
+        f.write(players_json)

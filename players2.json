@@ -4,55 +4,55 @@
         "name": "Adrian Beck",
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 2,
-        "potential": 6,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 5
+        "price": 23,
+        "scouting_price": 11
     },
     {
         "id": "2",
         "name": "Maximilian Breunig",
         "position": "STRIKER",
         "club": "1. FC Heidenheim 1846",
-        "status": 5,
+        "status": 1,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 13
+        "price": 24,
+        "scouting_price": 7
     },
     {
         "id": "3",
         "name": "Marnon Busch",
         "position": "DEFENDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 2,
+        "status": 4,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 6
+        "price": 24,
+        "scouting_price": 12
     },
     {
         "id": "4",
         "name": "Sirlord Conteh",
         "position": "STRIKER",
         "club": "1. FC Heidenheim 1846",
-        "status": 5,
-        "potential": 6,
+        "status": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 10
+        "price": 18,
+        "scouting_price": 8
     },
     {
         "id": "5",
         "name": "Niklas Dorsch",
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 2,
-        "potential": 1,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 7
+        "price": 24,
+        "scouting_price": 12
     },
     {
         "id": "6",
@@ -60,142 +60,142 @@
         "position": "GOALKEEPER",
         "club": "1. FC Heidenheim 1846",
         "status": 2,
-        "potential": 2,
+        "potential": 6,
         "chemistry": 0.5,
         "price": 21,
-        "scouting_price": 6
+        "scouting_price": 13
     },
     {
         "id": "7",
         "name": "Frank Feller",
         "position": "GOALKEEPER",
         "club": "1. FC Heidenheim 1846",
-        "status": 5,
-        "potential": 6,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 10
+        "price": 25,
+        "scouting_price": 14
     },
     {
         "id": "8",
-        "name": "Jonas Föhrenbach",
+        "name": "Jonas F\u00f6hrenbach",
         "position": "DEFENDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 5,
-        "potential": 2,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 9
+        "price": 21,
+        "scouting_price": 10
     },
     {
         "id": "9",
         "name": "Benedikt Gimber",
         "position": "DEFENDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 4,
+        "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 6
+        "price": 20,
+        "scouting_price": 13
     },
     {
         "id": "10",
         "name": "Mathias Honsak",
         "position": "STRIKER",
         "club": "1. FC Heidenheim 1846",
-        "status": 1,
-        "potential": 4,
+        "status": 6,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 18,
-        "scouting_price": 10
+        "scouting_price": 14
     },
     {
         "id": "11",
-        "name": "Luka Janes",
+        "name": "Luka Jane\u0161",
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 2,
-        "potential": 3,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 23,
+        "scouting_price": 10
     },
     {
         "id": "12",
         "name": "Mikkel Kaufmann",
         "position": "STRIKER",
         "club": "1. FC Heidenheim 1846",
-        "status": 1,
-        "potential": 5,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 13
+        "price": 19,
+        "scouting_price": 7
     },
     {
         "id": "13",
         "name": "Thomas Keller",
         "position": "DEFENDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 5,
-        "potential": 4,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 6
+        "price": 25,
+        "scouting_price": 14
     },
     {
         "id": "14",
         "name": "Luca Kerber",
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 5,
-        "potential": 2,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 10
+        "price": 20,
+        "scouting_price": 13
     },
     {
         "id": "15",
-        "name": "Leo Scienza",
+        "name": "L\u00e9o Scienza",
         "position": "STRIKER",
         "club": "1. FC Heidenheim 1846",
-        "status": 4,
-        "potential": 3,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 11
+        "price": 17,
+        "scouting_price": 6
     },
     {
         "id": "16",
         "name": "Patrick Mainka",
         "position": "DEFENDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 3,
-        "potential": 6,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
         "price": 19,
-        "scouting_price": 5
+        "scouting_price": 11
     },
     {
         "id": "17",
         "name": "Lennard Maloney",
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 4,
-        "potential": 2,
+        "status": 1,
+        "potential": 4,
         "chemistry": 0.5,
         "price": 21,
-        "scouting_price": 7
+        "scouting_price": 11
     },
     {
         "id": "18",
         "name": "Kevin M\u00fcller",
         "position": "GOALKEEPER",
         "club": "1. FC Heidenheim 1846",
-        "status": 3,
-        "potential": 1,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 7
+        "price": 15,
+        "scouting_price": 10
     },
     {
         "id": "19",
@@ -203,76 +203,76 @@
         "position": "STRIKER",
         "club": "1. FC Heidenheim 1846",
         "status": 1,
-        "potential": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 7
+        "price": 15,
+        "scouting_price": 8
     },
     {
         "id": "20",
         "name": "Julian Niehues",
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 5,
-        "potential": 5,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 21,
+        "scouting_price": 14
     },
     {
         "id": "21",
         "name": "Marvin Pieringer",
         "position": "STRIKER",
         "club": "1. FC Heidenheim 1846",
-        "status": 3,
-        "potential": 2,
+        "status": 4,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 12
+        "price": 21,
+        "scouting_price": 9
     },
     {
         "id": "22",
         "name": "Stefan Schimmer",
         "position": "STRIKER",
         "club": "1. FC Heidenheim 1846",
-        "status": 4,
-        "potential": 4,
+        "status": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 13
+        "price": 17,
+        "scouting_price": 11
     },
     {
         "id": "23",
-        "name": "Jan Schöppner",
+        "name": "Jan Sch\u00f6ppner",
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 1,
+        "status": 4,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 7
+        "price": 18,
+        "scouting_price": 9
     },
     {
         "id": "24",
         "name": "Tim Siersleben",
         "position": "DEFENDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 1,
+        "status": 5,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 9
+        "price": 23,
+        "scouting_price": 12
     },
     {
         "id": "25",
         "name": "Norman Theuerkauf",
         "position": "DEFENDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 6,
-        "potential": 5,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 11
+        "price": 24,
+        "scouting_price": 8
     },
     {
         "id": "26",
@@ -280,76 +280,76 @@
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
         "status": 5,
-        "potential": 6,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 13
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "27",
-        "name": "Omar Traore",
+        "name": "Omar Traor\u00e9",
         "position": "DEFENDER",
         "club": "1. FC Heidenheim 1846",
         "status": 6,
-        "potential": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 10
+        "price": 25,
+        "scouting_price": 6
     },
     {
         "id": "28",
         "name": "Paul Tschernuth",
         "position": "GOALKEEPER",
         "club": "1. FC Heidenheim 1846",
-        "status": 5,
-        "potential": 5,
+        "status": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 7
+        "price": 22,
+        "scouting_price": 6
     },
     {
         "id": "29",
         "name": "Paul Wanner",
         "position": "MIDFIELDER",
         "club": "1. FC Heidenheim 1846",
-        "status": 4,
-        "potential": 4,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 13
+        "price": 22,
+        "scouting_price": 5
     },
     {
         "id": "30",
-        "name": "Laszl\u00f3 Benes",
+        "name": "L\u00e1szl\u00f3 B\u00e9nes",
         "position": "MIDFIELDER",
         "club": "1. FC Union Berlin",
-        "status": 1,
+        "status": 4,
         "potential": 3,
         "chemistry": 0.5,
         "price": 15,
-        "scouting_price": 6
+        "scouting_price": 14
     },
     {
         "id": "31",
         "name": "Diogo Leite",
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
-        "status": 1,
-        "potential": 2,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 8
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "32",
         "name": "Danilho Doekhi",
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
-        "status": 3,
-        "potential": 2,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 11
+        "price": 25,
+        "scouting_price": 6
     },
     {
         "id": "33",
@@ -357,54 +357,54 @@
         "position": "MIDFIELDER",
         "club": "1. FC Union Berlin",
         "status": 4,
-        "potential": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 5
+        "price": 18,
+        "scouting_price": 11
     },
     {
         "id": "34",
         "name": "Benedict Hollerbach",
         "position": "STRIKER",
         "club": "1. FC Union Berlin",
-        "status": 6,
-        "potential": 5,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 6
+        "price": 18,
+        "scouting_price": 12
     },
     {
         "id": "35",
-        "name": "Andrej Ilic",
+        "name": "Andrej Ili\u0107",
         "position": "STRIKER",
         "club": "1. FC Union Berlin",
-        "status": 4,
-        "potential": 1,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 23,
-        "scouting_price": 10
+        "scouting_price": 8
     },
     {
         "id": "36",
         "name": "Woo-yeong Jeong",
         "position": "MIDFIELDER",
         "club": "1. FC Union Berlin",
-        "status": 2,
-        "potential": 1,
+        "status": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 14
+        "price": 17,
+        "scouting_price": 10
     },
     {
         "id": "37",
-        "name": "Josip Juranovic",
+        "name": "Josip Juranovi\u0107",
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
-        "status": 5,
-        "potential": 2,
+        "status": 6,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 11
+        "price": 15,
+        "scouting_price": 10
     },
     {
         "id": "38",
@@ -412,10 +412,10 @@
         "position": "MIDFIELDER",
         "club": "1. FC Union Berlin",
         "status": 6,
-        "potential": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 8
+        "price": 21,
+        "scouting_price": 14
     },
     {
         "id": "39",
@@ -425,8 +425,8 @@
         "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 10
+        "price": 21,
+        "scouting_price": 11
     },
     {
         "id": "40",
@@ -434,10 +434,10 @@
         "position": "GOALKEEPER",
         "club": "1. FC Union Berlin",
         "status": 2,
-        "potential": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 14
+        "price": 23,
+        "scouting_price": 6
     },
     {
         "id": "41",
@@ -445,86 +445,86 @@
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
         "status": 1,
-        "potential": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 10
+        "price": 23,
+        "scouting_price": 5
     },
     {
         "id": "42",
         "name": "David Preu",
         "position": "STRIKER",
         "club": "1. FC Union Berlin",
-        "status": 3,
-        "potential": 6,
+        "status": 1,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 9
+        "price": 24,
+        "scouting_price": 13
     },
     {
         "id": "43",
         "name": "Ivan Prtajin",
         "position": "STRIKER",
         "club": "1. FC Union Berlin",
-        "status": 6,
-        "potential": 2,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 15,
-        "scouting_price": 12
+        "scouting_price": 14
     },
     {
         "id": "44",
         "name": "Leopold Querfeld",
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
-        "status": 2,
-        "potential": 4,
+        "status": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 6
+        "price": 19,
+        "scouting_price": 9
     },
     {
         "id": "45",
         "name": "Tom Rothe",
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
-        "status": 2,
+        "status": 1,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 8
+        "price": 24,
+        "scouting_price": 6
     },
     {
         "id": "46",
-        "name": "Jer\u00f4me Roussillon",
+        "name": "J\u00e9r\u00f4me Roussillon",
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
-        "status": 2,
-        "potential": 1,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 14
+        "price": 15,
+        "scouting_price": 8
     },
     {
         "id": "47",
-        "name": "Frederik Ronnow",
+        "name": "Frederik R\u00f8nnow",
         "position": "GOALKEEPER",
         "club": "1. FC Union Berlin",
-        "status": 2,
-        "potential": 6,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 10
+        "price": 22,
+        "scouting_price": 6
     },
     {
         "id": "48",
-        "name": "Andras Schäfer",
+        "name": "Andr\u00e1s Sch\u00e4fer",
         "position": "MIDFIELDER",
         "club": "1. FC Union Berlin",
-        "status": 2,
-        "potential": 3,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 16,
+        "price": 22,
         "scouting_price": 5
     },
     {
@@ -533,64 +533,64 @@
         "position": "GOALKEEPER",
         "club": "1. FC Union Berlin",
         "status": 1,
-        "potential": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 14
+        "price": 19,
+        "scouting_price": 10
     },
     {
         "id": "50",
         "name": "Jordan Siebatcheu",
         "position": "STRIKER",
         "club": "1. FC Union Berlin",
-        "status": 4,
-        "potential": 6,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 14
+        "price": 15,
+        "scouting_price": 10
     },
     {
         "id": "51",
         "name": "Tim Skarke",
         "position": "STRIKER",
         "club": "1. FC Union Berlin",
-        "status": 4,
-        "potential": 1,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 12
+        "price": 15,
+        "scouting_price": 9
     },
     {
         "id": "52",
         "name": "Robert Skov",
         "position": "MIDFIELDER",
         "club": "1. FC Union Berlin",
-        "status": 6,
-        "potential": 6,
+        "status": 1,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 12
+        "price": 20,
+        "scouting_price": 13
     },
     {
         "id": "53",
         "name": "Yannic Stein",
         "position": "GOALKEEPER",
         "club": "1. FC Union Berlin",
-        "status": 4,
-        "potential": 1,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
         "price": 17,
-        "scouting_price": 7
+        "scouting_price": 11
     },
     {
         "id": "54",
         "name": "Lucas Tousart",
         "position": "MIDFIELDER",
         "club": "1. FC Union Berlin",
-        "status": 6,
-        "potential": 3,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 20,
+        "price": 15,
         "scouting_price": 10
     },
     {
@@ -598,22 +598,22 @@
         "name": "Christopher Trimmel",
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
-        "status": 4,
-        "potential": 5,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 11
+        "price": 17,
+        "scouting_price": 13
     },
     {
         "id": "56",
         "name": "Yorbe Vertessen",
         "position": "STRIKER",
         "club": "1. FC Union Berlin",
-        "status": 2,
-        "potential": 4,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 5
+        "price": 23,
+        "scouting_price": 13
     },
     {
         "id": "57",
@@ -621,9 +621,9 @@
         "position": "DEFENDER",
         "club": "1. FC Union Berlin",
         "status": 6,
-        "potential": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 19,
+        "price": 23,
         "scouting_price": 14
     },
     {
@@ -631,70 +631,81 @@
         "name": "Kevin Volland",
         "position": "STRIKER",
         "club": "1. FC Union Berlin",
-        "status": 4,
-        "potential": 1,
+        "status": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 6
+        "price": 25,
+        "scouting_price": 11
     },
     {
         "id": "59",
         "name": "Nadiem Amiri",
         "position": "MIDFIELDER",
         "club": "1. FSV Mainz 05",
-        "status": 6,
-        "potential": 2,
+        "status": 2,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 18,
+        "scouting_price": 13
     },
     {
         "id": "60",
         "name": "Aymen Barkok",
         "position": "MIDFIELDER",
         "club": "1. FSV Mainz 05",
-        "status": 5,
-        "potential": 4,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 12
+        "price": 18,
+        "scouting_price": 11
     },
     {
         "id": "61",
         "name": "Daniel Batz",
         "position": "GOALKEEPER",
         "club": "1. FSV Mainz 05",
-        "status": 5,
-        "potential": 2,
+        "status": 6,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 6
+        "price": 23,
+        "scouting_price": 8
     },
     {
         "id": "62",
         "name": "Stefan Bell",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
-        "status": 1,
+        "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 9
+        "price": 15,
+        "scouting_price": 12
     },
     {
         "id": "63",
         "name": "Jonathan Burkardt",
         "position": "STRIKER",
         "club": "1. FSV Mainz 05",
-        "status": 1,
+        "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 18,
+        "scouting_price": 6
     },
     {
         "id": "64",
         "name": "Anthony Caci",
+        "position": "DEFENDER",
+        "club": "1. FSV Mainz 05",
+        "status": 5,
+        "potential": 1,
+        "chemistry": 0.5,
+        "price": 15,
+        "scouting_price": 10
+    },
+    {
+        "id": "65",
+        "name": "Danny da Costa",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
         "status": 4,
@@ -704,91 +715,80 @@
         "scouting_price": 13
     },
     {
-        "id": "65",
-        "name": "Danny da Costa",
-        "position": "DEFENDER",
-        "club": "1. FSV Mainz 05",
-        "status": 2,
-        "potential": 3,
-        "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 9
-    },
-    {
         "id": "66",
         "name": "Maxim Dal",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
-        "status": 6,
-        "potential": 3,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 8
+        "price": 22,
+        "scouting_price": 10
     },
     {
         "id": "67",
         "name": "Daniel Gleiber",
         "position": "MIDFIELDER",
         "club": "1. FSV Mainz 05",
-        "status": 2,
-        "potential": 4,
+        "status": 6,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 20,
+        "scouting_price": 11
     },
     {
         "id": "68",
         "name": "Andreas Hanche-Olsen",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
-        "status": 6,
-        "potential": 1,
+        "status": 2,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 9
+        "price": 25,
+        "scouting_price": 5
     },
     {
         "id": "69",
         "name": "Hyun-seok Hong",
         "position": "MIDFIELDER",
         "club": "1. FSV Mainz 05",
-        "status": 2,
-        "potential": 5,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 10
+        "price": 21,
+        "scouting_price": 6
     },
     {
         "id": "70",
         "name": "Moritz Jenz",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
-        "status": 4,
-        "potential": 4,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 10
+        "price": 24,
+        "scouting_price": 11
     },
     {
         "id": "71",
         "name": "Dominik Kohr",
         "position": "MIDFIELDER",
         "club": "1. FSV Mainz 05",
-        "status": 6,
-        "potential": 4,
+        "status": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 14
+        "price": 19,
+        "scouting_price": 12
     },
     {
         "id": "72",
         "name": "Jae-sung Lee",
         "position": "MIDFIELDER",
         "club": "1. FSV Mainz 05",
-        "status": 4,
-        "potential": 3,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 22,
+        "price": 15,
         "scouting_price": 8
     },
     {
@@ -796,66 +796,66 @@
         "name": "Maxim Leitsch",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
-        "status": 1,
-        "potential": 5,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 12
+        "price": 19,
+        "scouting_price": 10
     },
     {
         "id": "74",
-        "name": "David Mamutovic",
+        "name": "David Mamutovi\u0107",
         "position": "STRIKER",
         "club": "1. FSV Mainz 05",
         "status": 2,
         "potential": 4,
         "chemistry": 0.5,
         "price": 25,
-        "scouting_price": 12
+        "scouting_price": 7
     },
     {
         "id": "75",
         "name": "Phillipp Mwene",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
-        "status": 1,
-        "potential": 2,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
         "price": 20,
-        "scouting_price": 13
+        "scouting_price": 7
     },
     {
         "id": "76",
         "name": "Paul Nebel",
         "position": "STRIKER",
         "club": "1. FSV Mainz 05",
-        "status": 4,
-        "potential": 2,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 8
+        "price": 25,
+        "scouting_price": 6
     },
     {
         "id": "77",
         "name": "Karim Onisiwo",
         "position": "STRIKER",
         "club": "1. FSV Mainz 05",
-        "status": 3,
+        "status": 4,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 10
+        "price": 19,
+        "scouting_price": 12
     },
     {
         "id": "78",
         "name": "Lasse Rie\u00df",
         "position": "GOALKEEPER",
         "club": "1. FSV Mainz 05",
-        "status": 6,
+        "status": 2,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 8
+        "price": 21,
+        "scouting_price": 6
     },
     {
         "id": "79",
@@ -863,64 +863,64 @@
         "position": "MIDFIELDER",
         "club": "1. FSV Mainz 05",
         "status": 1,
-        "potential": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 10
+        "price": 24,
+        "scouting_price": 5
     },
     {
         "id": "80",
         "name": "Eniss Shabani",
         "position": "MIDFIELDER",
         "club": "1. FSV Mainz 05",
-        "status": 6,
-        "potential": 1,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 9
+        "price": 24,
+        "scouting_price": 12
     },
     {
         "id": "81",
         "name": "Armindo Sieb",
         "position": "STRIKER",
         "club": "1. FSV Mainz 05",
-        "status": 5,
+        "status": 2,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 13
+        "price": 18,
+        "scouting_price": 11
     },
     {
         "id": "82",
         "name": "Nikolas Veratschnig",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
-        "status": 1,
+        "status": 5,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 7
+        "price": 18,
+        "scouting_price": 14
     },
     {
         "id": "83",
-        "name": "Gabriel Vidovic",
+        "name": "Gabriel Vidovi\u0107",
         "position": "STRIKER",
         "club": "1. FSV Mainz 05",
         "status": 6,
-        "potential": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 10
+        "price": 21,
+        "scouting_price": 7
     },
     {
         "id": "84",
         "name": "Nelson Weiper",
         "position": "STRIKER",
         "club": "1. FSV Mainz 05",
-        "status": 6,
-        "potential": 1,
+        "status": 2,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 21,
+        "price": 22,
         "scouting_price": 6
     },
     {
@@ -928,22 +928,22 @@
         "name": "Silvan Widmer",
         "position": "DEFENDER",
         "club": "1. FSV Mainz 05",
-        "status": 4,
-        "potential": 6,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 14
+        "price": 16,
+        "scouting_price": 7
     },
     {
         "id": "86",
         "name": "Robin Zentner",
         "position": "GOALKEEPER",
         "club": "1. FSV Mainz 05",
-        "status": 4,
-        "potential": 1,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 8
+        "price": 15,
+        "scouting_price": 11
     },
     {
         "id": "87",
@@ -951,21 +951,21 @@
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
         "status": 6,
-        "potential": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 12
+        "price": 20,
+        "scouting_price": 5
     },
     {
         "id": "88",
         "name": "Arthur Chaves",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 6,
-        "potential": 4,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 7
+        "price": 21,
+        "scouting_price": 9
     },
     {
         "id": "89",
@@ -973,220 +973,219 @@
         "position": "GOALKEEPER",
         "club": "1899 Hoffenheim",
         "status": 1,
-        "potential": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 5
+        "price": 21,
+        "scouting_price": 7
     },
     {
         "id": "90",
         "name": "Ihlas Bebou",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
-        "status": 1,
-        "potential": 5,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 9
+        "price": 25,
+        "scouting_price": 13
     },
     {
         "id": "91",
         "name": "Finn Becker",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 6,
-        "potential": 6,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 12
+        "price": 25,
+        "scouting_price": 10
     },
     {
         "id": "92",
         "name": "M\u00ebrgim Berisha",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
-        "status": 1,
+        "status": 5,
         "potential": 2,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 12
+        "price": 16,
+        "scouting_price": 9
     },
     {
         "id": "93",
         "name": "Tom Bischof",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 1,
-        "potential": 4,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 6
+        "price": 20,
+        "scouting_price": 7
     },
     {
         "id": "94",
         "name": "Jacob Bruun Larsen",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
-        "status": 3,
+        "status": 1,
         "potential": 1,
         "chemistry": 0.5,
         "price": 24,
-        "scouting_price": 10
+        "scouting_price": 6
     },
     {
         "id": "95",
         "name": "Marius B\u00fclter",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
-        "status": 1,
-        "potential": 4,
+        "status": 4,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 13
+        "price": 15,
+        "scouting_price": 7
     },
     {
         "id": "96",
         "name": "Tim Drexler",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 2,
-        "potential": 2,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 10
+        "price": 25,
+        "scouting_price": 11
     },
     {
         "id": "97",
         "name": "Dennis Geiger",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 2,
-        "potential": 4,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
         "price": 15,
-        "scouting_price": 13
+        "scouting_price": 10
     },
     {
         "id": "98",
         "name": "Valentin Gendrey",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 6,
-        "potential": 5,
+        "status": 4,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 11
+        "price": 19,
+        "scouting_price": 10
     },
     {
         "id": "99",
         "name": "Florian Grillitsch",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 1,
-        "potential": 6,
+        "status": 4,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 7
+        "price": 18,
+        "scouting_price": 5
     },
     {
         "id": "100",
         "name": "Adam Hlo\u017eek",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
-        "status": 5,
-        "potential": 3,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 9
-    }
-,
+        "price": 16,
+        "scouting_price": 14
+    },
     {
         "id": "101",
-        "name": "Robin Hrana\u010d",
+        "name": "Robin Hran\u00e1\u010d",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 2,
-        "potential": 3,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 10
+        "price": 24,
+        "scouting_price": 8
     },
     {
         "id": "102",
         "name": "Marco John",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 1,
-        "potential": 4,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 7
+        "price": 16,
+        "scouting_price": 12
     },
     {
         "id": "103",
-        "name": "David Jurasek",
+        "name": "David Jur\u00e1sek",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 2,
-        "potential": 4,
+        "status": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 10
+        "price": 24,
+        "scouting_price": 11
     },
     {
         "id": "104",
         "name": "Ozan Kabak",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 4,
-        "potential": 6,
+        "status": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 12
+        "price": 20,
+        "scouting_price": 11
     },
     {
         "id": "105",
-        "name": "Pavel Kade\u0159abek",
+        "name": "Pavel Kade\u0159\u00e1bek",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
         "status": 2,
-        "potential": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 5
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "106",
         "name": "Simon Kalambayi",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
-        "status": 3,
-        "potential": 4,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 11
+        "price": 16,
+        "scouting_price": 8
     },
     {
         "id": "107",
-        "name": "Andrej Kramaric",
+        "name": "Andrej Kramari\u0107",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
         "status": 4,
-        "potential": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 14
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "108",
         "name": "Christopher Lenz",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 4,
-        "potential": 6,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
         "price": 23,
-        "scouting_price": 7
+        "scouting_price": 10
     },
     {
         "id": "109",
@@ -1194,98 +1193,98 @@
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
         "status": 1,
-        "potential": 6,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 5
+        "price": 16,
+        "scouting_price": 8
     },
     {
         "id": "110",
         "name": "Max Moerstedt",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
-        "status": 1,
+        "status": 3,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 13
+        "price": 24,
+        "scouting_price": 5
     },
     {
         "id": "111",
         "name": "Stanley Nsoki",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 1,
+        "status": 6,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 14
+        "price": 24,
+        "scouting_price": 13
     },
     {
         "id": "112",
         "name": "Lukas Petersson",
         "position": "GOALKEEPER",
         "club": "1899 Hoffenheim",
-        "status": 6,
-        "potential": 4,
+        "status": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 8
+        "price": 18,
+        "scouting_price": 14
     },
     {
         "id": "113",
         "name": "Luca Philipp",
         "position": "GOALKEEPER",
         "club": "1899 Hoffenheim",
-        "status": 4,
-        "potential": 1,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 8
+        "price": 24,
+        "scouting_price": 7
     },
     {
         "id": "114",
         "name": "Alexander Prass",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 4,
-        "potential": 3,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 14
+        "price": 20,
+        "scouting_price": 7
     },
     {
         "id": "115",
-        "name": "Grischa Prömel",
+        "name": "Grischa Pr\u00f6mel",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 1,
-        "potential": 4,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 11
+        "price": 22,
+        "scouting_price": 8
     },
     {
         "id": "116",
-        "name": "Diadie Samassekou",
+        "name": "Diadi\u00e9 Samass\u00e9kou",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 3,
-        "potential": 3,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 7
+        "price": 16,
+        "scouting_price": 12
     },
     {
         "id": "117",
         "name": "Anton Stach",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 1,
+        "status": 5,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 8
+        "price": 15,
+        "scouting_price": 14
     },
     {
         "id": "118",
@@ -1293,54 +1292,54 @@
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
         "status": 3,
-        "potential": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 13
+        "price": 24,
+        "scouting_price": 10
     },
     {
         "id": "119",
         "name": "Attila Szalai",
         "position": "DEFENDER",
         "club": "1899 Hoffenheim",
-        "status": 3,
-        "potential": 2,
+        "status": 1,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 10
+        "price": 18,
+        "scouting_price": 9
     },
     {
         "id": "120",
         "name": "Haris Tabakovic",
         "position": "STRIKER",
         "club": "1899 Hoffenheim",
-        "status": 2,
-        "potential": 2,
+        "status": 1,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 11
+        "price": 17,
+        "scouting_price": 7
     },
     {
         "id": "121",
         "name": "Umut Tohumcu",
         "position": "MIDFIELDER",
         "club": "1899 Hoffenheim",
-        "status": 1,
-        "potential": 4,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 11
+        "price": 15,
+        "scouting_price": 14
     },
     {
         "id": "122",
         "name": "Amine Adli",
         "position": "STRIKER",
         "club": "Bayer Leverkusen",
-        "status": 3,
-        "potential": 4,
+        "status": 6,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 5
+        "price": 24,
+        "scouting_price": 8
     },
     {
         "id": "123",
@@ -1348,10 +1347,10 @@
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
         "status": 2,
-        "potential": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 7
+        "price": 16,
+        "scouting_price": 6
     },
     {
         "id": "124",
@@ -1359,32 +1358,32 @@
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
         "status": 6,
-        "potential": 6,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 12
+        "price": 17,
+        "scouting_price": 10
     },
     {
         "id": "125",
         "name": "Robert Andrich",
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
-        "status": 1,
-        "potential": 3,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 12
+        "price": 19,
+        "scouting_price": 8
     },
     {
         "id": "126",
         "name": "Arthur Augusto",
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
-        "status": 3,
-        "potential": 6,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 11
+        "price": 19,
+        "scouting_price": 12
     },
     {
         "id": "127",
@@ -1392,131 +1391,131 @@
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
         "status": 4,
-        "potential": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 5
+        "price": 17,
+        "scouting_price": 12
     },
     {
         "id": "128",
         "name": "Victor Boniface",
         "position": "STRIKER",
         "club": "Bayer Leverkusen",
-        "status": 6,
-        "potential": 2,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 13
+        "price": 23,
+        "scouting_price": 6
     },
     {
         "id": "129",
         "name": "Sadik Fofana",
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
-        "status": 4,
-        "potential": 4,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 7
+        "price": 17,
+        "scouting_price": 14
     },
     {
         "id": "130",
         "name": "Jeremie Frimpong",
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
-        "status": 5,
-        "potential": 1,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 17,
+        "price": 15,
         "scouting_price": 8
     },
     {
         "id": "131",
-        "name": "Piero Hincapie",
+        "name": "Piero Hincapi\u00e9",
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
         "status": 5,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 8
+        "price": 20,
+        "scouting_price": 13
     },
     {
         "id": "132",
         "name": "Jonas Hofmann",
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
-        "status": 3,
-        "potential": 3,
-        "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 11
-    },
-    {
-        "id": "133",
-        "name": "Lukas Hradeck\u00fd",
-        "position": "GOALKEEPER",
-        "club": "Bayer Leverkusen",
         "status": 5,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 14
+        "price": 19,
+        "scouting_price": 12
+    },
+    {
+        "id": "133",
+        "name": "Luk\u00e1\u0161 Hr\u00e1deck\u00fd",
+        "position": "GOALKEEPER",
+        "club": "Bayer Leverkusen",
+        "status": 3,
+        "potential": 1,
+        "chemistry": 0.5,
+        "price": 15,
+        "scouting_price": 10
     },
     {
         "id": "134",
         "name": "Ken Izekor",
         "position": "STRIKER",
         "club": "Bayer Leverkusen",
-        "status": 5,
+        "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 10
+        "price": 22,
+        "scouting_price": 5
     },
     {
         "id": "135",
-        "name": "Mat\u011bj Kova\u0159",
+        "name": "Mat\u011bj Kov\u00e1\u0159",
         "position": "GOALKEEPER",
         "club": "Bayer Leverkusen",
-        "status": 5,
-        "potential": 2,
+        "status": 1,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 13
+        "price": 16,
+        "scouting_price": 14
     },
     {
         "id": "136",
         "name": "Niklas Lomb",
         "position": "GOALKEEPER",
         "club": "Bayer Leverkusen",
-        "status": 1,
+        "status": 4,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 8
+        "price": 24,
+        "scouting_price": 11
     },
     {
         "id": "137",
-        "name": "Matija Marsenic",
+        "name": "Matija Marseni\u0107",
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
-        "status": 6,
-        "potential": 4,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 13
+        "price": 17,
+        "scouting_price": 11
     },
     {
         "id": "138",
         "name": "Nordi Mukiele",
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
-        "status": 2,
-        "potential": 2,
+        "status": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 12
+        "price": 17,
+        "scouting_price": 13
     },
     {
         "id": "139",
@@ -1524,9 +1523,9 @@
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
         "status": 4,
-        "potential": 2,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 25,
+        "price": 15,
         "scouting_price": 14
     },
     {
@@ -1534,77 +1533,77 @@
         "name": "Exequiel Palacios",
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
-        "status": 6,
-        "potential": 5,
+        "status": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 8
+        "price": 24,
+        "scouting_price": 10
     },
     {
         "id": "141",
         "name": "Othni\u00ebl Raterink",
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
-        "status": 6,
-        "potential": 4,
+        "status": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 8
+        "price": 21,
+        "scouting_price": 11
     },
     {
         "id": "142",
         "name": "Patrik Schick",
         "position": "STRIKER",
         "club": "Bayer Leverkusen",
-        "status": 2,
+        "status": 5,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 8
+        "price": 17,
+        "scouting_price": 7
     },
     {
         "id": "143",
         "name": "Artem Stepanov",
         "position": "STRIKER",
         "club": "Bayer Leverkusen",
-        "status": 2,
-        "potential": 4,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 11
+        "price": 25,
+        "scouting_price": 13
     },
     {
         "id": "144",
         "name": "Jonathan Tah",
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
-        "status": 2,
-        "potential": 4,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
         "price": 17,
-        "scouting_price": 6
+        "scouting_price": 10
     },
     {
         "id": "145",
         "name": "Edmond Tapsoba",
         "position": "DEFENDER",
         "club": "Bayer Leverkusen",
-        "status": 1,
-        "potential": 4,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 11
+        "price": 18,
+        "scouting_price": 10
     },
     {
         "id": "146",
         "name": "Nathan Tella",
         "position": "STRIKER",
         "club": "Bayer Leverkusen",
-        "status": 6,
-        "potential": 6,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 8
+        "price": 22,
+        "scouting_price": 12
     },
     {
         "id": "147",
@@ -1612,77 +1611,76 @@
         "position": "STRIKER",
         "club": "Bayer Leverkusen",
         "status": 3,
-        "potential": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 10
+        "price": 25,
+        "scouting_price": 6
     },
     {
         "id": "148",
         "name": "Florian Wirtz",
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
-        "status": 6,
-        "potential": 5,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
         "price": 22,
-        "scouting_price": 12
+        "scouting_price": 13
     },
     {
         "id": "149",
         "name": "Granit Xhaka",
         "position": "MIDFIELDER",
         "club": "Bayer Leverkusen",
-        "status": 4,
-        "potential": 4,
+        "status": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 7
+        "price": 24,
+        "scouting_price": 14
     },
     {
         "id": "150",
         "name": "Adam Aznou",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 6,
+        "status": 1,
         "potential": 6,
         "chemistry": 0.5,
         "price": 17,
-        "scouting_price": 5
-    }
-,
+        "scouting_price": 6
+    },
     {
         "id": "151",
-        "name": "Noel Aseko Nkili",
+        "name": "Noel As\u00e9ko Nkili",
         "position": "MIDFIELDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 4,
-        "potential": 2,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 11
+        "price": 22,
+        "scouting_price": 8
     },
     {
         "id": "152",
         "name": "Sacha Boey",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 1,
+        "status": 6,
         "potential": 6,
         "chemistry": 0.5,
         "price": 19,
-        "scouting_price": 5
+        "scouting_price": 12
     },
     {
         "id": "153",
         "name": "Tarek Buchmann",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 4,
-        "potential": 6,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 11
+        "price": 18,
+        "scouting_price": 8
     },
     {
         "id": "154",
@@ -1690,7 +1688,7 @@
         "position": "STRIKER",
         "club": "Bayern M\u00fcnchen",
         "status": 2,
-        "potential": 6,
+        "potential": 1,
         "chemistry": 0.5,
         "price": 16,
         "scouting_price": 5
@@ -1700,21 +1698,21 @@
         "name": "Alphonso Davies",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 2,
-        "potential": 1,
+        "status": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 14
+        "price": 15,
+        "scouting_price": 9
     },
     {
         "id": "156",
         "name": "Eric Dier",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 1,
+        "status": 4,
         "potential": 2,
         "chemistry": 0.5,
-        "price": 22,
+        "price": 16,
         "scouting_price": 13
     },
     {
@@ -1722,66 +1720,66 @@
         "name": "Serge Gnabry",
         "position": "STRIKER",
         "club": "Bayern M\u00fcnchen",
-        "status": 6,
+        "status": 5,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 5
+        "price": 16,
+        "scouting_price": 7
     },
     {
         "id": "158",
         "name": "Leon Goretzka",
         "position": "MIDFIELDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 6,
+        "status": 4,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 7
+        "price": 20,
+        "scouting_price": 9
     },
     {
         "id": "159",
         "name": "Rapha\u00ebl Guerreiro",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 4,
-        "potential": 6,
+        "status": 2,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 13
+        "price": 18,
+        "scouting_price": 6
     },
     {
         "id": "160",
-        "name": "Arijon Ibrahimovic",
+        "name": "Arijon Ibrahimovi\u0107",
         "position": "STRIKER",
         "club": "Bayern M\u00fcnchen",
         "status": 1,
-        "potential": 4,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 10
+        "price": 24,
+        "scouting_price": 7
     },
     {
         "id": "161",
         "name": "Nestory Irankunda",
         "position": "STRIKER",
         "club": "Bayern M\u00fcnchen",
-        "status": 4,
-        "potential": 5,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 16,
+        "scouting_price": 11
     },
     {
         "id": "162",
         "name": "Hiroki It\u014d",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 4,
-        "potential": 6,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
         "price": 21,
-        "scouting_price": 13
+        "scouting_price": 8
     },
     {
         "id": "163",
@@ -1789,21 +1787,21 @@
         "position": "MIDFIELDER",
         "club": "Bayern M\u00fcnchen",
         "status": 2,
-        "potential": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 5
+        "price": 22,
+        "scouting_price": 6
     },
     {
         "id": "164",
         "name": "Harry Kane",
         "position": "STRIKER",
         "club": "Bayern M\u00fcnchen",
-        "status": 4,
-        "potential": 4,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 10
+        "price": 22,
+        "scouting_price": 11
     },
     {
         "id": "165",
@@ -1811,32 +1809,32 @@
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
         "status": 3,
-        "potential": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 10
+        "price": 17,
+        "scouting_price": 5
     },
     {
         "id": "166",
         "name": "Joshua Kimmich",
         "position": "MIDFIELDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 3,
-        "potential": 5,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 9
+        "price": 19,
+        "scouting_price": 14
     },
     {
         "id": "167",
         "name": "Konrad Laimer",
         "position": "MIDFIELDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 3,
-        "potential": 5,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 8
+        "price": 17,
+        "scouting_price": 10
     },
     {
         "id": "168",
@@ -1846,19 +1844,19 @@
         "status": 2,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 13
+        "price": 23,
+        "scouting_price": 10
     },
     {
         "id": "169",
         "name": "Jamal Musiala",
         "position": "MIDFIELDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 5,
-        "potential": 1,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 7
+        "price": 25,
+        "scouting_price": 14
     },
     {
         "id": "170",
@@ -1866,9 +1864,9 @@
         "position": "GOALKEEPER",
         "club": "Bayern M\u00fcnchen",
         "status": 3,
-        "potential": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 16,
+        "price": 23,
         "scouting_price": 9
     },
     {
@@ -1876,22 +1874,22 @@
         "name": "Michael Olise",
         "position": "STRIKER",
         "club": "Bayern M\u00fcnchen",
-        "status": 1,
-        "potential": 1,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 13
+        "price": 21,
+        "scouting_price": 6
     },
     {
         "id": "172",
-        "name": "Aleksandar Pavlovic",
+        "name": "Aleksandar Pavlovi\u0107",
         "position": "MIDFIELDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 3,
-        "potential": 3,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 16,
+        "scouting_price": 12
     },
     {
         "id": "173",
@@ -1899,258 +1897,346 @@
         "position": "GOALKEEPER",
         "club": "Bayern M\u00fcnchen",
         "status": 3,
-        "potential": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 8
+        "price": 25,
+        "scouting_price": 12
     },
     {
         "id": "174",
-        "name": "Leroy Sane",
+        "name": "Leroy San\u00e9",
         "position": "STRIKER",
         "club": "Bayern M\u00fcnchen",
-        "status": 3,
+        "status": 1,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 9
+        "price": 22,
+        "scouting_price": 10
     },
     {
         "id": "175",
         "name": "Max Schmitt",
         "position": "GOALKEEPER",
         "club": "Bayern M\u00fcnchen",
-        "status": 2,
-        "potential": 6,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 16,
-        "scouting_price": 6
+        "scouting_price": 14
     },
     {
         "id": "176",
-        "name": "Josip Stanisic",
+        "name": "Josip Stani\u0161i\u0107",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 3,
-        "potential": 1,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 5
+        "price": 20,
+        "scouting_price": 8
     },
     {
         "id": "177",
         "name": "Mathys Tel",
         "position": "STRIKER",
         "club": "Bayern M\u00fcnchen",
-        "status": 6,
-        "potential": 5,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 8
+        "price": 15,
+        "scouting_price": 6
     },
     {
         "id": "178",
         "name": "Sven Ulreich",
         "position": "GOALKEEPER",
         "club": "Bayern M\u00fcnchen",
-        "status": 3,
-        "potential": 4,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 11
+        "price": 22,
+        "scouting_price": 12
     },
     {
         "id": "179",
         "name": "Dayot Upamecano",
         "position": "DEFENDER",
         "club": "Bayern M\u00fcnchen",
-        "status": 4,
-        "potential": 2,
+        "status": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 13
+        "price": 17,
+        "scouting_price": 10
     },
     {
         "id": "180",
         "name": "Yvandro Borges Sanches",
         "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
-        "status": 4,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 5,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 12
+        "price": 21,
+        "scouting_price": 11
     },
     {
         "id": "181",
         "name": "Fabio Chiarodia",
         "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 6,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 7
+        "price": 23,
+        "scouting_price": 11
     },
     {
         "id": "182",
-        "name": "Tomas \u010cvan\u010dara",
+        "name": "Tom\u00e1\u0161 \u010cvan\u010dara",
         "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
-        "status": 1,
-        "potential": 3,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 6,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 10
+        "price": 22,
+        "scouting_price": 11
     },
     {
         "id": "183",
         "name": "Ibrahim Digberekou",
         "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 2,
-        "potential": 5,
-        "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 11
-    },
-    {
-        "id": "184",
-        "name": "Nico Elvedi",
-        "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 2,
-        "potential": 6,
-        "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 6
-    },
-    {
-        "id": "185",
-        "name": "Marvin Friedrich",
-        "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 4,
-        "potential": 3,
-        "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 10
-    },
-    {
-        "id": "186",
-        "name": "Shio Fukuda",
-        "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
-        "status": 5,
-        "potential": 6,
-        "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 13
-    },
-    {
-        "id": "187",
-        "name": "Robin Hack",
-        "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
-        "status": 1,
-        "potential": 5,
-        "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 6
-    },
-    {
-        "id": "188",
-        "name": "Charles Herrmann",
-        "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
-        "status": 4,
-        "potential": 3,
-        "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 9
-    },
-    {
-        "id": "189",
-        "name": "Franck Honorat",
-        "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
+        "club": "Bor. M\u00f6nchengladbach",
         "status": 6,
-        "potential": 6,
+        "potential": 2,
         "chemistry": 0.5,
         "price": 23,
         "scouting_price": 8
     },
     {
+        "id": "184",
+        "name": "Nico Elvedi",
+        "position": "DEFENDER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 5,
+        "chemistry": 0.5,
+        "price": 21,
+        "scouting_price": 8
+    },
+    {
+        "id": "185",
+        "name": "Marvin Friedrich",
+        "position": "DEFENDER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 6,
+        "chemistry": 0.5,
+        "price": 21,
+        "scouting_price": 5
+    },
+    {
+        "id": "186",
+        "name": "Shio Fukuda",
+        "position": "STRIKER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 4,
+        "chemistry": 0.5,
+        "price": 23,
+        "scouting_price": 8
+    },
+    {
+        "id": "187",
+        "name": "Robin Hack",
+        "position": "STRIKER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 5,
+        "potential": 6,
+        "chemistry": 0.5,
+        "price": 23,
+        "scouting_price": 5
+    },
+    {
+        "id": "188",
+        "name": "Charles Herrmann",
+        "position": "STRIKER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 4,
+        "potential": 1,
+        "chemistry": 0.5,
+        "price": 21,
+        "scouting_price": 10
+    },
+    {
+        "id": "189",
+        "name": "Franck Honorat",
+        "position": "STRIKER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 4,
+        "potential": 3,
+        "chemistry": 0.5,
+        "price": 16,
+        "scouting_price": 5
+    },
+    {
         "id": "190",
         "name": "Ko Itakura",
         "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 5,
-        "potential": 3,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 9
+        "price": 22,
+        "scouting_price": 12
     },
     {
         "id": "191",
         "name": "Tim Kleindienst",
         "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
+        "club": "Bor. M\u00f6nchengladbach",
         "status": 1,
-        "potential": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 19,
+        "price": 16,
         "scouting_price": 7
     },
     {
         "id": "192",
         "name": "Stefan Lainer",
         "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 3,
-        "potential": 1,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 6,
         "chemistry": 0.5,
         "price": 21,
-        "scouting_price": 7
+        "scouting_price": 8
     },
     {
         "id": "193",
         "name": "Luca Netz",
         "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 2,
-        "potential": 3,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 10
+        "price": 15,
+        "scouting_price": 14
     },
     {
         "id": "194",
         "name": "Florian Neuhaus",
         "position": "MIDFIELDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 5,
-        "potential": 4,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 10
+        "price": 25,
+        "scouting_price": 6
     },
     {
         "id": "195",
         "name": "Nathan Ngoumou",
         "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
-        "status": 1,
-        "potential": 4,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 24,
+        "price": 19,
         "scouting_price": 14
     },
     {
         "id": "196",
         "name": "Moritz Nicolas",
         "position": "GOALKEEPER",
-        "club": "Bor. Mönchengladbach",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 6,
+        "potential": 2,
+        "chemistry": 0.5,
+        "price": 15,
+        "scouting_price": 8
+    },
+    {
+        "id": "197",
+        "name": "Jan Olschowsky",
+        "position": "GOALKEEPER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 4,
+        "potential": 4,
+        "chemistry": 0.5,
+        "price": 24,
+        "scouting_price": 12
+    },
+    {
+        "id": "198",
+        "name": "Jonas Omlin",
+        "position": "GOALKEEPER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 5,
+        "potential": 2,
+        "chemistry": 0.5,
+        "price": 20,
+        "scouting_price": 9
+    },
+    {
+        "id": "199",
+        "name": "Alassane Pl\u00e9a",
+        "position": "STRIKER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 5,
+        "potential": 1,
+        "chemistry": 0.5,
+        "price": 24,
+        "scouting_price": 7
+    },
+    {
+        "id": "200",
+        "name": "Grant-Leon Ranos",
+        "position": "STRIKER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 2,
+        "potential": 1,
+        "chemistry": 0.5,
+        "price": 22,
+        "scouting_price": 13
+    },
+    {
+        "id": "201",
+        "name": "Rocco Reitz",
+        "position": "MIDFIELDER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 1,
+        "chemistry": 0.5,
+        "price": 22,
+        "scouting_price": 13
+    },
+    {
+        "id": "202",
+        "name": "Philipp Sander",
+        "position": "MIDFIELDER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 3,
+        "chemistry": 0.5,
+        "price": 21,
+        "scouting_price": 11
+    },
+    {
+        "id": "203",
+        "name": "Joe Scally",
+        "position": "DEFENDER",
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 1,
+        "chemistry": 0.5,
+        "price": 18,
+        "scouting_price": 5
+    },
+    {
+        "id": "204",
+        "name": "Tobias Sippel",
+        "position": "GOALKEEPER",
+        "club": "Bor. M\u00f6nchengladbach",
         "status": 6,
         "potential": 6,
         "chemistry": 0.5,
@@ -2158,148 +2244,59 @@
         "scouting_price": 7
     },
     {
-        "id": "197",
-        "name": "Jan Olschowsky",
-        "position": "GOALKEEPER",
-        "club": "Bor. Mönchengladbach",
-        "status": 1,
-        "potential": 4,
-        "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 14
-    },
-    {
-        "id": "198",
-        "name": "Jonas Omlin",
-        "position": "GOALKEEPER",
-        "club": "Bor. Mönchengladbach",
+        "id": "205",
+        "name": "Kevin St\u00f6ger",
+        "position": "MIDFIELDER",
+        "club": "Bor. M\u00f6nchengladbach",
         "status": 3,
-        "potential": 6,
-        "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 11
-    },
-    {
-        "id": "199",
-        "name": "Alassane Plea",
-        "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
-        "status": 4,
-        "potential": 1,
-        "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 7
-    },
-    {
-        "id": "200",
-        "name": "Grant-Leon Ranos",
-        "position": "STRIKER",
-        "club": "Bor. Mönchengladbach",
-        "status": 4,
-        "potential": 4,
-        "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 13
-    }
-,
-    {
-        "id": "201",
-        "name": "Rocco Reitz",
-        "position": "MIDFIELDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 6,
-        "potential": 1,
-        "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 10
-    },
-    {
-        "id": "202",
-        "name": "Philipp Sander",
-        "position": "MIDFIELDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 6,
-        "potential": 2,
-        "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 6
-    },
-    {
-        "id": "203",
-        "name": "Joe Scally",
-        "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 4,
-        "potential": 4,
-        "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 7
-    },
-    {
-        "id": "204",
-        "name": "Tobias Sippel",
-        "position": "GOALKEEPER",
-        "club": "Bor. Mönchengladbach",
-        "status": 5,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 6
-    },
-    {
-        "id": "205",
-        "name": "Kevin Stöger",
-        "position": "MIDFIELDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 2,
-        "potential": 4,
-        "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 6
+        "price": 16,
+        "scouting_price": 8
     },
     {
         "id": "206",
         "name": "Lukas Ullrich",
         "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
+        "club": "Bor. M\u00f6nchengladbach",
         "status": 3,
-        "potential": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
+        "price": 20,
         "scouting_price": 6
     },
     {
         "id": "207",
         "name": "Simon Walde",
         "position": "DEFENDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 2,
-        "potential": 1,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 11
+        "price": 23,
+        "scouting_price": 10
     },
     {
         "id": "208",
         "name": "Julian Weigl",
         "position": "MIDFIELDER",
-        "club": "Bor. Mönchengladbach",
-        "status": 2,
-        "potential": 6,
+        "club": "Bor. M\u00f6nchengladbach",
+        "status": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 13
+        "price": 25,
+        "scouting_price": 6
     },
     {
         "id": "209",
         "name": "Karim Adeyemi",
         "position": "STRIKER",
         "club": "Borussia Dortmund",
-        "status": 5,
-        "potential": 2,
+        "status": 1,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 7
+        "price": 25,
+        "scouting_price": 5
     },
     {
         "id": "210",
@@ -2307,32 +2304,32 @@
         "position": "DEFENDER",
         "club": "Borussia Dortmund",
         "status": 5,
-        "potential": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 10
+        "price": 23,
+        "scouting_price": 6
     },
     {
         "id": "211",
         "name": "Ayman Azhil",
         "position": "MIDFIELDER",
         "club": "Borussia Dortmund",
-        "status": 4,
-        "potential": 3,
+        "status": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 9
+        "price": 19,
+        "scouting_price": 7
     },
     {
         "id": "212",
         "name": "Maximilian Beier",
         "position": "STRIKER",
         "club": "Borussia Dortmund",
-        "status": 2,
-        "potential": 3,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 9
+        "price": 15,
+        "scouting_price": 11
     },
     {
         "id": "213",
@@ -2340,42 +2337,42 @@
         "position": "DEFENDER",
         "club": "Borussia Dortmund",
         "status": 2,
-        "potential": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 12
+        "price": 24,
+        "scouting_price": 11
     },
     {
         "id": "214",
         "name": "Julian Brandt",
         "position": "MIDFIELDER",
         "club": "Borussia Dortmund",
-        "status": 2,
-        "potential": 4,
+        "status": 4,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 14
+        "price": 15,
+        "scouting_price": 5
     },
     {
         "id": "215",
         "name": "Cole Campbell",
         "position": "STRIKER",
         "club": "Borussia Dortmund",
-        "status": 1,
-        "potential": 4,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 7
+        "price": 24,
+        "scouting_price": 12
     },
     {
         "id": "216",
         "name": "Emre Can",
         "position": "MIDFIELDER",
         "club": "Borussia Dortmund",
-        "status": 5,
-        "potential": 2,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 16,
+        "price": 20,
         "scouting_price": 9
     },
     {
@@ -2383,33 +2380,33 @@
         "name": "Julien Duranville",
         "position": "STRIKER",
         "club": "Borussia Dortmund",
-        "status": 5,
-        "potential": 3,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 10
+        "price": 21,
+        "scouting_price": 12
     },
     {
         "id": "218",
         "name": "Jamie Gittens",
         "position": "STRIKER",
         "club": "Borussia Dortmund",
-        "status": 4,
-        "potential": 1,
+        "status": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 14
+        "price": 22,
+        "scouting_price": 7
     },
     {
         "id": "219",
         "name": "Pascal Gro\u00df",
         "position": "MIDFIELDER",
         "club": "Borussia Dortmund",
-        "status": 4,
+        "status": 2,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 13
+        "price": 22,
+        "scouting_price": 7
     },
     {
         "id": "220",
@@ -2417,10 +2414,10 @@
         "position": "STRIKER",
         "club": "Borussia Dortmund",
         "status": 6,
-        "potential": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 9
+        "price": 24,
+        "scouting_price": 13
     },
     {
         "id": "221",
@@ -2428,65 +2425,65 @@
         "position": "DEFENDER",
         "club": "Borussia Dortmund",
         "status": 6,
-        "potential": 1,
+        "potential": 4,
         "chemistry": 0.5,
         "price": 18,
-        "scouting_price": 10
+        "scouting_price": 7
     },
     {
         "id": "222",
         "name": "Gregor Kobel",
         "position": "GOALKEEPER",
         "club": "Borussia Dortmund",
-        "status": 4,
+        "status": 3,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 13
+        "price": 21,
+        "scouting_price": 8
     },
     {
         "id": "223",
         "name": "Marcel Lotka",
         "position": "GOALKEEPER",
         "club": "Borussia Dortmund",
-        "status": 3,
-        "potential": 3,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 12
+        "price": 19,
+        "scouting_price": 13
     },
     {
         "id": "224",
         "name": "Donyell Malen",
         "position": "STRIKER",
         "club": "Borussia Dortmund",
-        "status": 4,
-        "potential": 6,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 7
+        "price": 25,
+        "scouting_price": 5
     },
     {
         "id": "225",
-        "name": "Filippo Mane",
+        "name": "Filippo Man\u00e9",
         "position": "DEFENDER",
         "club": "Borussia Dortmund",
-        "status": 5,
-        "potential": 3,
+        "status": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 5
+        "price": 15,
+        "scouting_price": 6
     },
     {
         "id": "226",
         "name": "Alexander Meyer",
         "position": "GOALKEEPER",
         "club": "Borussia Dortmund",
-        "status": 4,
-        "potential": 5,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
         "price": 22,
-        "scouting_price": 6
+        "scouting_price": 9
     },
     {
         "id": "227",
@@ -2494,76 +2491,76 @@
         "position": "MIDFIELDER",
         "club": "Borussia Dortmund",
         "status": 3,
-        "potential": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 11
+        "price": 15,
+        "scouting_price": 6
     },
     {
         "id": "228",
         "name": "Gio Reyna",
         "position": "MIDFIELDER",
         "club": "Borussia Dortmund",
-        "status": 5,
-        "potential": 5,
+        "status": 1,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 5
+        "price": 17,
+        "scouting_price": 8
     },
     {
         "id": "229",
         "name": "Julian Ryerson",
         "position": "DEFENDER",
         "club": "Borussia Dortmund",
-        "status": 3,
+        "status": 4,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 9
+        "price": 25,
+        "scouting_price": 14
     },
     {
         "id": "230",
         "name": "Marcel Sabitzer",
         "position": "MIDFIELDER",
         "club": "Borussia Dortmund",
-        "status": 4,
-        "potential": 2,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 9
+        "price": 24,
+        "scouting_price": 8
     },
     {
         "id": "231",
         "name": "Nico Schlotterbeck",
         "position": "DEFENDER",
         "club": "Borussia Dortmund",
-        "status": 2,
-        "potential": 2,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 12
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "232",
         "name": "Niklas S\u00fcle",
         "position": "DEFENDER",
         "club": "Borussia Dortmund",
-        "status": 1,
-        "potential": 2,
+        "status": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
+        "price": 25,
         "scouting_price": 10
     },
     {
         "id": "233",
-        "name": "Kjell Wätjen",
+        "name": "Kjell W\u00e4tjen",
         "position": "MIDFIELDER",
         "club": "Borussia Dortmund",
-        "status": 3,
+        "status": 2,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 11
+        "price": 24,
+        "scouting_price": 10
     },
     {
         "id": "234",
@@ -2571,32 +2568,32 @@
         "position": "DEFENDER",
         "club": "Borussia Dortmund",
         "status": 3,
-        "potential": 2,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 13
+        "price": 24,
+        "scouting_price": 7
     },
     {
         "id": "235",
         "name": "Anas Alaoui",
         "position": "STRIKER",
         "club": "Eintracht Frankfurt",
-        "status": 1,
-        "potential": 2,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 6
+        "price": 15,
+        "scouting_price": 5
     },
     {
         "id": "236",
         "name": "Aur\u00e8le Amenda",
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
-        "status": 4,
-        "potential": 5,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 9
+        "price": 22,
+        "scouting_price": 5
     },
     {
         "id": "237",
@@ -2604,10 +2601,10 @@
         "position": "STRIKER",
         "club": "Eintracht Frankfurt",
         "status": 6,
-        "potential": 1,
+        "potential": 2,
         "chemistry": 0.5,
         "price": 15,
-        "scouting_price": 7
+        "scouting_price": 6
     },
     {
         "id": "238",
@@ -2617,107 +2614,107 @@
         "status": 6,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 14
+        "price": 24,
+        "scouting_price": 12
     },
     {
         "id": "239",
         "name": "Davis Bautista",
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
-        "status": 6,
-        "potential": 3,
+        "status": 4,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 11
+        "price": 25,
+        "scouting_price": 10
     },
     {
         "id": "240",
         "name": "Nathaniel Brown",
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
-        "status": 2,
-        "potential": 3,
+        "status": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 7
+        "price": 21,
+        "scouting_price": 10
     },
     {
         "id": "241",
         "name": "Far\u00e8s Cha\u00efbi",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 2,
-        "potential": 2,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 12
+        "price": 17,
+        "scouting_price": 7
     },
     {
         "id": "242",
         "name": "Timothy Chandler",
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
-        "status": 6,
+        "status": 1,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 9
+        "price": 21,
+        "scouting_price": 6
     },
     {
         "id": "243",
         "name": "Nnamdi Collins",
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
-        "status": 6,
-        "potential": 2,
+        "status": 2,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 9
+        "price": 20,
+        "scouting_price": 8
     },
     {
         "id": "244",
         "name": "Mahmoud Dahoud",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 4,
-        "potential": 6,
+        "status": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 8
+        "price": 17,
+        "scouting_price": 12
     },
     {
         "id": "245",
         "name": "\u00c9ric Dina-Ebimbe",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 6,
+        "status": 2,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 7
+        "price": 20,
+        "scouting_price": 9
     },
     {
         "id": "246",
         "name": "Hugo Ekitike",
         "position": "STRIKER",
         "club": "Eintracht Frankfurt",
-        "status": 3,
-        "potential": 6,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 7
+        "price": 19,
+        "scouting_price": 9
     },
     {
         "id": "247",
-        "name": "Noah Fenyö",
+        "name": "Noah Feny\u00f6",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
         "status": 1,
-        "potential": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 6
+        "price": 15,
+        "scouting_price": 13
     },
     {
         "id": "248",
@@ -2728,52 +2725,51 @@
         "potential": 4,
         "chemistry": 0.5,
         "price": 21,
-        "scouting_price": 13
+        "scouting_price": 8
     },
     {
         "id": "249",
-        "name": "Mario Götze",
+        "name": "Mario G\u00f6tze",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 2,
-        "potential": 5,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 10
+        "price": 23,
+        "scouting_price": 8
     },
     {
         "id": "250",
         "name": "Jens Grahl",
         "position": "GOALKEEPER",
         "club": "Eintracht Frankfurt",
-        "status": 2,
+        "status": 5,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 11
-    }
-,
+        "price": 19,
+        "scouting_price": 13
+    },
     {
         "id": "251",
         "name": "Jens Hauge",
         "position": "STRIKER",
         "club": "Eintracht Frankfurt",
-        "status": 2,
-        "potential": 5,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 12
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "252",
-        "name": "Oscar Hojlund",
+        "name": "Oscar H\u00f8jlund",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 5,
-        "potential": 2,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 11
+        "price": 24,
+        "scouting_price": 6
     },
     {
         "id": "253",
@@ -2781,21 +2777,21 @@
         "position": "GOALKEEPER",
         "club": "Eintracht Frankfurt",
         "status": 4,
-        "potential": 1,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 11
+        "price": 22,
+        "scouting_price": 8
     },
     {
         "id": "254",
         "name": "Ansgar Knauff",
         "position": "STRIKER",
         "club": "Eintracht Frankfurt",
-        "status": 5,
-        "potential": 6,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 5
+        "price": 20,
+        "scouting_price": 10
     },
     {
         "id": "255",
@@ -2803,10 +2799,10 @@
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
         "status": 5,
-        "potential": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 7
+        "price": 25,
+        "scouting_price": 14
     },
     {
         "id": "256",
@@ -2814,32 +2810,32 @@
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
         "status": 1,
-        "potential": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 13
+        "price": 25,
+        "scouting_price": 10
     },
     {
         "id": "257",
         "name": "Hugo Larsson",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 6,
-        "potential": 2,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 7
+        "price": 22,
+        "scouting_price": 11
     },
     {
         "id": "258",
-        "name": "Krisztian Lisztes",
+        "name": "Kriszti\u00e1n Lisztes",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 6,
-        "potential": 1,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 20,
+        "scouting_price": 14
     },
     {
         "id": "259",
@@ -2847,32 +2843,32 @@
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
         "status": 4,
-        "potential": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 13
+        "price": 20,
+        "scouting_price": 11
     },
     {
         "id": "260",
         "name": "Omar Marmoush",
         "position": "STRIKER",
         "club": "Eintracht Frankfurt",
-        "status": 1,
-        "potential": 5,
+        "status": 4,
+        "potential": 1,
         "chemistry": 0.5,
         "price": 20,
-        "scouting_price": 9
+        "scouting_price": 10
     },
     {
         "id": "261",
-        "name": "Igor Matanovic",
+        "name": "Igor Matanovi\u0107",
         "position": "STRIKER",
         "club": "Eintracht Frankfurt",
-        "status": 6,
-        "potential": 4,
+        "status": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 10
+        "price": 19,
+        "scouting_price": 14
     },
     {
         "id": "262",
@@ -2880,32 +2876,32 @@
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
         "status": 1,
-        "potential": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 8
+        "price": 20,
+        "scouting_price": 13
     },
     {
         "id": "263",
-        "name": "Jer\u00f4me Onguene",
+        "name": "J\u00e9r\u00f4me Ongu\u00e9n\u00e9",
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
-        "status": 6,
-        "potential": 2,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 6
+        "price": 20,
+        "scouting_price": 10
     },
     {
         "id": "264",
         "name": "Nils Ramming",
         "position": "GOALKEEPER",
         "club": "Eintracht Frankfurt",
-        "status": 4,
+        "status": 5,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 6
+        "price": 16,
+        "scouting_price": 14
     },
     {
         "id": "265",
@@ -2913,17 +2909,17 @@
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
         "status": 5,
-        "potential": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 14
+        "price": 21,
+        "scouting_price": 10
     },
     {
         "id": "266",
         "name": "Arthur Theate",
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
-        "status": 3,
+        "status": 2,
         "potential": 3,
         "chemistry": 0.5,
         "price": 24,
@@ -2934,65 +2930,65 @@
         "name": "Kevin Trapp",
         "position": "GOALKEEPER",
         "club": "Eintracht Frankfurt",
-        "status": 4,
-        "potential": 6,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 14
+        "price": 23,
+        "scouting_price": 5
     },
     {
         "id": "268",
         "name": "Tuta",
         "position": "DEFENDER",
         "club": "Eintracht Frankfurt",
-        "status": 3,
-        "potential": 3,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 9
+        "price": 21,
+        "scouting_price": 11
     },
     {
         "id": "269",
         "name": "Can Uzun",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 2,
-        "potential": 5,
+        "status": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 9
+        "price": 22,
+        "scouting_price": 8
     },
     {
         "id": "270",
         "name": "Marcel Wenig",
         "position": "MIDFIELDER",
         "club": "Eintracht Frankfurt",
-        "status": 3,
-        "potential": 1,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 15,
+        "scouting_price": 8
     },
     {
         "id": "271",
         "name": "Noahkai Banks",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 6,
+        "status": 3,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 7
+        "price": 21,
+        "scouting_price": 11
     },
     {
         "id": "272",
         "name": "Maximilian Bauer",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 3,
-        "potential": 1,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
+        "price": 19,
         "scouting_price": 12
     },
     {
@@ -3001,87 +2997,87 @@
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
         "status": 1,
-        "potential": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 10
+        "price": 23,
+        "scouting_price": 6
     },
     {
         "id": "274",
         "name": "Alexis Claude-Maurice",
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
-        "status": 4,
-        "potential": 1,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 13
+        "price": 20,
+        "scouting_price": 8
     },
     {
         "id": "275",
         "name": "Finn Dahmen",
         "position": "GOALKEEPER",
         "club": "FC Augsburg",
-        "status": 3,
+        "status": 1,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 6
+        "price": 22,
+        "scouting_price": 10
     },
     {
         "id": "276",
         "name": "Samuel Essende",
         "position": "STRIKER",
         "club": "FC Augsburg",
-        "status": 3,
-        "potential": 3,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 14
+        "price": 18,
+        "scouting_price": 6
     },
     {
         "id": "277",
         "name": "Dimitris Giannoulis",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 6,
-        "potential": 4,
+        "status": 2,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 5
+        "price": 19,
+        "scouting_price": 10
     },
     {
         "id": "278",
         "name": "Jeffrey Gouweleeuw",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 6,
+        "status": 1,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 13
+        "price": 21,
+        "scouting_price": 7
     },
     {
         "id": "279",
         "name": "Robert Gumny",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 1,
-        "potential": 3,
+        "status": 4,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 12
+        "price": 19,
+        "scouting_price": 5
     },
     {
         "id": "280",
-        "name": "Kristijan Jakic",
+        "name": "Kristijan Jaki\u0107",
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
-        "status": 5,
-        "potential": 3,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 9
+        "price": 18,
+        "scouting_price": 10
     },
     {
         "id": "281",
@@ -3091,40 +3087,40 @@
         "status": 3,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 12
+        "price": 22,
+        "scouting_price": 10
     },
     {
         "id": "282",
         "name": "Yusuf Kabaday\u0131",
         "position": "STRIKER",
         "club": "FC Augsburg",
-        "status": 2,
-        "potential": 3,
+        "status": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 8
+        "price": 24,
+        "scouting_price": 13
     },
     {
         "id": "283",
         "name": "Daniel Klein",
         "position": "GOALKEEPER",
         "club": "FC Augsburg",
-        "status": 6,
-        "potential": 1,
+        "status": 4,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
+        "price": 24,
         "scouting_price": 7
     },
     {
         "id": "284",
-        "name": "Mert Köm\u00fcr",
+        "name": "Mert K\u00f6m\u00fcr",
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
-        "status": 3,
+        "status": 1,
         "potential": 2,
         "chemistry": 0.5,
-        "price": 23,
+        "price": 19,
         "scouting_price": 7
     },
     {
@@ -3132,43 +3128,43 @@
         "name": "Henri Koudossou",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 6,
+        "status": 2,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 10
+        "price": 16,
+        "scouting_price": 9
     },
     {
         "id": "286",
         "name": "Mahmut K\u00fc\u00e7\u00fck\u015fahin",
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
-        "status": 5,
-        "potential": 6,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 12
+        "price": 24,
+        "scouting_price": 5
     },
     {
         "id": "287",
-        "name": "Nediljko Labrovic",
+        "name": "Nediljko Labrovi\u0107",
         "position": "GOALKEEPER",
         "club": "FC Augsburg",
-        "status": 5,
-        "potential": 1,
+        "status": 1,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 9
+        "price": 22,
+        "scouting_price": 5
     },
     {
         "id": "288",
         "name": "Arne Maier",
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
-        "status": 1,
-        "potential": 6,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 21,
+        "price": 20,
         "scouting_price": 12
     },
     {
@@ -3176,55 +3172,55 @@
         "name": "Chrislain Matsima",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 6,
-        "potential": 4,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 12
+        "price": 17,
+        "scouting_price": 10
     },
     {
         "id": "290",
-        "name": "Steve Mounie",
+        "name": "Steve Mouni\u00e9",
         "position": "STRIKER",
         "club": "FC Augsburg",
-        "status": 3,
+        "status": 5,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 14
+        "price": 25,
+        "scouting_price": 10
     },
     {
         "id": "291",
         "name": "Masaya Okugawa",
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
-        "status": 6,
-        "potential": 6,
+        "status": 2,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 5
+        "price": 22,
+        "scouting_price": 9
     },
     {
         "id": "292",
         "name": "Frank Onyeka",
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
-        "status": 5,
-        "potential": 4,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 14
+        "price": 19,
+        "scouting_price": 7
     },
     {
         "id": "293",
         "name": "Reece Oxford",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 2,
-        "potential": 2,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
         "price": 15,
-        "scouting_price": 10
+        "scouting_price": 9
     },
     {
         "id": "294",
@@ -3232,20 +3228,20 @@
         "position": "DEFENDER",
         "club": "FC Augsburg",
         "status": 2,
-        "potential": 2,
+        "potential": 3,
         "chemistry": 0.5,
         "price": 23,
-        "scouting_price": 14
+        "scouting_price": 9
     },
     {
         "id": "295",
         "name": "Elvis Rexhbe\u00e7aj",
         "position": "MIDFIELDER",
         "club": "FC Augsburg",
-        "status": 1,
-        "potential": 5,
+        "status": 4,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
+        "price": 21,
         "scouting_price": 10
     },
     {
@@ -3253,10 +3249,10 @@
         "name": "Keven Schlotterbeck",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 3,
+        "status": 4,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 23,
+        "price": 15,
         "scouting_price": 8
     },
     {
@@ -3264,21 +3260,21 @@
         "name": "Phillip Tietz",
         "position": "STRIKER",
         "club": "FC Augsburg",
-        "status": 6,
+        "status": 3,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 12
+        "price": 23,
+        "scouting_price": 11
     },
     {
         "id": "298",
         "name": "Ruben Vargas",
         "position": "STRIKER",
         "club": "FC Augsburg",
-        "status": 5,
-        "potential": 5,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 23,
+        "price": 24,
         "scouting_price": 6
     },
     {
@@ -3286,34 +3282,33 @@
         "name": "Marius Wolf",
         "position": "DEFENDER",
         "club": "FC Augsburg",
-        "status": 1,
-        "potential": 6,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 13
+        "price": 17,
+        "scouting_price": 11
     },
     {
         "id": "300",
         "name": "Oladapo Afolayan",
         "position": "STRIKER",
         "club": "FC St. Pauli",
-        "status": 2,
+        "status": 6,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 11
-    }
-,
+        "price": 16,
+        "scouting_price": 5
+    },
     {
         "id": "301",
-        "name": "Sören Ahlers",
+        "name": "S\u00f6ren Ahlers",
         "position": "GOALKEEPER",
         "club": "FC St. Pauli",
-        "status": 5,
-        "potential": 6,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 5
+        "price": 23,
+        "scouting_price": 11
     },
     {
         "id": "302",
@@ -3321,32 +3316,32 @@
         "position": "MIDFIELDER",
         "club": "FC St. Pauli",
         "status": 5,
-        "potential": 2,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 17,
-        "scouting_price": 12
+        "scouting_price": 8
     },
     {
         "id": "303",
         "name": "Andreas Albers",
         "position": "STRIKER",
         "club": "FC St. Pauli",
-        "status": 6,
-        "potential": 4,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 9
+        "price": 18,
+        "scouting_price": 14
     },
     {
         "id": "304",
         "name": "Scott Banks",
         "position": "STRIKER",
         "club": "FC St. Pauli",
-        "status": 6,
+        "status": 4,
         "potential": 5,
         "chemistry": 0.5,
         "price": 25,
-        "scouting_price": 11
+        "scouting_price": 10
     },
     {
         "id": "305",
@@ -3354,87 +3349,87 @@
         "position": "MIDFIELDER",
         "club": "FC St. Pauli",
         "status": 6,
-        "potential": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 6
+        "price": 20,
+        "scouting_price": 10
     },
     {
         "id": "306",
         "name": "Sascha Burchert",
         "position": "GOALKEEPER",
         "club": "FC St. Pauli",
-        "status": 3,
-        "potential": 1,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 13
+        "price": 16,
+        "scouting_price": 9
     },
     {
         "id": "307",
         "name": "Muhammad Dahaba",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 3,
-        "potential": 4,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 13
+        "price": 18,
+        "scouting_price": 12
     },
     {
         "id": "308",
         "name": "Adam D\u017awiga\u0142a",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 1,
-        "potential": 4,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 7
+        "price": 16,
+        "scouting_price": 12
     },
     {
         "id": "309",
         "name": "Johannes Eggestein",
         "position": "STRIKER",
         "club": "FC St. Pauli",
-        "status": 3,
-        "potential": 2,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 7
+        "price": 22,
+        "scouting_price": 5
     },
     {
         "id": "310",
         "name": "Morgan Guilavogui",
         "position": "STRIKER",
         "club": "FC St. Pauli",
-        "status": 4,
-        "potential": 3,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 6
+        "price": 18,
+        "scouting_price": 5
     },
     {
         "id": "311",
         "name": "Jackson Irvine",
         "position": "MIDFIELDER",
         "club": "FC St. Pauli",
-        "status": 4,
-        "potential": 1,
+        "status": 2,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 18,
+        "scouting_price": 9
     },
     {
         "id": "312",
         "name": "Maurides",
         "position": "STRIKER",
         "club": "FC St. Pauli",
-        "status": 3,
-        "potential": 3,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 7
+        "price": 16,
+        "scouting_price": 5
     },
     {
         "id": "313",
@@ -3442,20 +3437,20 @@
         "position": "MIDFIELDER",
         "club": "FC St. Pauli",
         "status": 4,
-        "potential": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 8
+        "price": 25,
+        "scouting_price": 12
     },
     {
         "id": "314",
         "name": "Karol Mets",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 2,
+        "status": 5,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
+        "price": 17,
         "scouting_price": 5
     },
     {
@@ -3464,21 +3459,21 @@
         "position": "DEFENDER",
         "club": "FC St. Pauli",
         "status": 5,
-        "potential": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 24,
+        "scouting_price": 8
     },
     {
         "id": "316",
         "name": "Lars Ritzka",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 1,
-        "potential": 1,
+        "status": 2,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 7
+        "price": 23,
+        "scouting_price": 12
     },
     {
         "id": "317",
@@ -3486,21 +3481,21 @@
         "position": "STRIKER",
         "club": "FC St. Pauli",
         "status": 1,
-        "potential": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 9
+        "price": 20,
+        "scouting_price": 8
     },
     {
         "id": "318",
         "name": "Manolis Saliakas",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 1,
-        "potential": 5,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 8
+        "price": 18,
+        "scouting_price": 7
     },
     {
         "id": "319",
@@ -3508,20 +3503,20 @@
         "position": "MIDFIELDER",
         "club": "FC St. Pauli",
         "status": 5,
-        "potential": 1,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 9
+        "price": 24,
+        "scouting_price": 10
     },
     {
         "id": "320",
         "name": "Eric Smith",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 3,
-        "potential": 2,
+        "status": 1,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
+        "price": 21,
         "scouting_price": 12
     },
     {
@@ -3529,41 +3524,41 @@
         "name": "Finley Stevens",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 5,
+        "status": 1,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 7
+        "price": 21,
+        "scouting_price": 10
     },
     {
         "id": "322",
         "name": "Philipp Treu",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 4,
-        "potential": 3,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 12
+        "price": 15,
+        "scouting_price": 11
     },
     {
         "id": "323",
         "name": "Nikola Vasilj",
         "position": "GOALKEEPER",
         "club": "FC St. Pauli",
-        "status": 1,
-        "potential": 6,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 9
+        "price": 19,
+        "scouting_price": 13
     },
     {
         "id": "324",
         "name": "Ben Voll",
         "position": "GOALKEEPER",
         "club": "FC St. Pauli",
-        "status": 6,
-        "potential": 3,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
         "price": 21,
         "scouting_price": 5
@@ -3573,44 +3568,44 @@
         "name": "Robert Wagner",
         "position": "MIDFIELDER",
         "club": "FC St. Pauli",
-        "status": 6,
+        "status": 4,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 5
+        "price": 22,
+        "scouting_price": 6
     },
     {
         "id": "326",
         "name": "Hauke Wahl",
         "position": "DEFENDER",
         "club": "FC St. Pauli",
-        "status": 5,
-        "potential": 1,
+        "status": 3,
+        "potential": 4,
         "chemistry": 0.5,
         "price": 18,
-        "scouting_price": 5
+        "scouting_price": 6
     },
     {
         "id": "327",
         "name": "Simon Zoller",
         "position": "STRIKER",
         "club": "FC St. Pauli",
-        "status": 6,
-        "potential": 2,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 19,
+        "scouting_price": 7
     },
     {
         "id": "328",
         "name": "Jann-Fiete Arp",
         "position": "STRIKER",
         "club": "Holstein Kiel",
-        "status": 6,
+        "status": 4,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 8
+        "price": 24,
+        "scouting_price": 14
     },
     {
         "id": "329",
@@ -3618,32 +3613,32 @@
         "position": "DEFENDER",
         "club": "Holstein Kiel",
         "status": 6,
-        "potential": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 5
+        "price": 24,
+        "scouting_price": 9
     },
     {
         "id": "330",
         "name": "Alexander Bernhardsson",
         "position": "STRIKER",
         "club": "Holstein Kiel",
-        "status": 6,
-        "potential": 6,
-        "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 14
-    },
-    {
-        "id": "331",
-        "name": "Thomas Dähne",
-        "position": "GOALKEEPER",
-        "club": "Holstein Kiel",
         "status": 1,
         "potential": 4,
         "chemistry": 0.5,
+        "price": 21,
+        "scouting_price": 6
+    },
+    {
+        "id": "331",
+        "name": "Thomas D\u00e4hne",
+        "position": "GOALKEEPER",
+        "club": "Holstein Kiel",
+        "status": 5,
+        "potential": 5,
+        "chemistry": 0.5,
         "price": 20,
-        "scouting_price": 7
+        "scouting_price": 9
     },
     {
         "id": "332",
@@ -3651,21 +3646,21 @@
         "position": "GOALKEEPER",
         "club": "Holstein Kiel",
         "status": 4,
-        "potential": 1,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 12
+        "price": 25,
+        "scouting_price": 10
     },
     {
         "id": "333",
         "name": "Marcel Engelhardt",
         "position": "GOALKEEPER",
         "club": "Holstein Kiel",
-        "status": 6,
+        "status": 4,
         "potential": 2,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 6
+        "price": 16,
+        "scouting_price": 10
     },
     {
         "id": "334",
@@ -3673,43 +3668,43 @@
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
         "status": 2,
-        "potential": 1,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 6
+        "price": 23,
+        "scouting_price": 10
     },
     {
         "id": "335",
         "name": "Max Geschwill",
         "position": "DEFENDER",
         "club": "Holstein Kiel",
-        "status": 5,
-        "potential": 2,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 14
+        "price": 17,
+        "scouting_price": 8
     },
     {
         "id": "336",
-        "name": "Armin Gigovic",
+        "name": "Armin Gigovi\u0107",
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
-        "status": 6,
-        "potential": 6,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 14
+        "price": 22,
+        "scouting_price": 9
     },
     {
         "id": "337",
         "name": "Phil Harres",
         "position": "STRIKER",
         "club": "Holstein Kiel",
-        "status": 3,
-        "potential": 6,
+        "status": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 24,
+        "scouting_price": 7
     },
     {
         "id": "338",
@@ -3717,43 +3712,43 @@
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
         "status": 2,
-        "potential": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 10
+        "price": 17,
+        "scouting_price": 7
     },
     {
         "id": "339",
-        "name": "Marko Ivezic",
+        "name": "Marko Ivezi\u0107",
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
-        "status": 3,
-        "potential": 5,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
         "price": 21,
-        "scouting_price": 5
+        "scouting_price": 10
     },
     {
         "id": "340",
         "name": "Dominik Javor\u010dek",
         "position": "DEFENDER",
         "club": "Holstein Kiel",
-        "status": 4,
+        "status": 6,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 13
+        "price": 20,
+        "scouting_price": 9
     },
     {
         "id": "341",
         "name": "Carl Johansson",
         "position": "DEFENDER",
         "club": "Holstein Kiel",
-        "status": 1,
-        "potential": 2,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 9
+        "price": 17,
+        "scouting_price": 12
     },
     {
         "id": "342",
@@ -3763,52 +3758,52 @@
         "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 8
+        "price": 24,
+        "scouting_price": 13
     },
     {
         "id": "343",
         "name": "Colin Kleine-Bekel",
         "position": "DEFENDER",
         "club": "Holstein Kiel",
-        "status": 4,
-        "potential": 3,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 10
+        "price": 25,
+        "scouting_price": 9
     },
     {
         "id": "344",
         "name": "Magnus Knudsen",
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
-        "status": 1,
-        "potential": 4,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 8
+        "price": 23,
+        "scouting_price": 14
     },
     {
         "id": "345",
         "name": "Marco Komenda",
         "position": "DEFENDER",
         "club": "Holstein Kiel",
-        "status": 2,
-        "potential": 2,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 12
+        "price": 23,
+        "scouting_price": 13
     },
     {
         "id": "346",
         "name": "Shuto Machino",
         "position": "STRIKER",
         "club": "Holstein Kiel",
-        "status": 1,
-        "potential": 1,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 9
+        "price": 15,
+        "scouting_price": 5
     },
     {
         "id": "347",
@@ -3816,55 +3811,54 @@
         "position": "STRIKER",
         "club": "Holstein Kiel",
         "status": 1,
-        "potential": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 11
+        "price": 17,
+        "scouting_price": 9
     },
     {
         "id": "348",
         "name": "Finn Porath",
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
-        "status": 5,
-        "potential": 4,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 12
+        "price": 15,
+        "scouting_price": 11
     },
     {
         "id": "349",
         "name": "Tymoteusz Puchacz",
         "position": "DEFENDER",
         "club": "Holstein Kiel",
-        "status": 2,
-        "potential": 1,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 5
+        "price": 18,
+        "scouting_price": 10
     },
     {
         "id": "350",
         "name": "Nicolai Remberg",
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
-        "status": 2,
+        "status": 3,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 10
-    }
-,
+        "price": 17,
+        "scouting_price": 9
+    },
     {
         "id": "351",
         "name": "Lasse Rosenboom",
         "position": "DEFENDER",
         "club": "Holstein Kiel",
-        "status": 3,
-        "potential": 1,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 10
+        "price": 22,
+        "scouting_price": 7
     },
     {
         "id": "352",
@@ -3874,62 +3868,62 @@
         "status": 6,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 14
+        "price": 19,
+        "scouting_price": 10
     },
     {
         "id": "353",
         "name": "Steven Skrzybski",
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
-        "status": 2,
-        "potential": 4,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 19,
+        "scouting_price": 14
     },
     {
         "id": "354",
         "name": "Aurel Wagbe",
         "position": "MIDFIELDER",
         "club": "Holstein Kiel",
-        "status": 2,
-        "potential": 5,
+        "status": 1,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 13
+        "price": 20,
+        "scouting_price": 14
     },
     {
         "id": "355",
         "name": "Timon Weiner",
         "position": "GOALKEEPER",
         "club": "Holstein Kiel",
-        "status": 6,
+        "status": 4,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 13
+        "price": 24,
+        "scouting_price": 6
     },
     {
         "id": "356",
-        "name": "Andre Silva",
+        "name": "Andr\u00e9 Silva",
         "position": "STRIKER",
         "club": "RB Leipzig",
-        "status": 1,
-        "potential": 3,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 9
+        "price": 21,
+        "scouting_price": 10
     },
     {
         "id": "357",
         "name": "Christoph Baumgartner",
         "position": "MIDFIELDER",
         "club": "RB Leipzig",
-        "status": 3,
-        "potential": 4,
+        "status": 2,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 19,
+        "price": 25,
         "scouting_price": 5
     },
     {
@@ -3937,21 +3931,21 @@
         "name": "El Chada\u00eflle Bitshiabu",
         "position": "DEFENDER",
         "club": "RB Leipzig",
-        "status": 6,
+        "status": 4,
         "potential": 6,
         "chemistry": 0.5,
         "price": 20,
-        "scouting_price": 7
+        "scouting_price": 6
     },
     {
         "id": "359",
         "name": "Eljif Elmas",
         "position": "MIDFIELDER",
         "club": "RB Leipzig",
-        "status": 1,
-        "potential": 3,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
+        "price": 15,
         "scouting_price": 13
     },
     {
@@ -3959,33 +3953,33 @@
         "name": "Viggo Gebel",
         "position": "MIDFIELDER",
         "club": "RB Leipzig",
-        "status": 6,
-        "potential": 6,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
         "price": 19,
-        "scouting_price": 10
+        "scouting_price": 8
     },
     {
         "id": "361",
         "name": "Lutsharel Geertruida",
         "position": "DEFENDER",
         "club": "RB Leipzig",
-        "status": 2,
-        "potential": 5,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 7
+        "price": 25,
+        "scouting_price": 6
     },
     {
         "id": "362",
-        "name": "Peter Gulacsi",
+        "name": "P\u00e9ter Gul\u00e1csi",
         "position": "GOALKEEPER",
         "club": "RB Leipzig",
-        "status": 4,
-        "potential": 1,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 11
+        "price": 19,
+        "scouting_price": 13
     },
     {
         "id": "363",
@@ -3995,19 +3989,19 @@
         "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 8
+        "price": 21,
+        "scouting_price": 9
     },
     {
         "id": "364",
         "name": "Benjamin Henrichs",
         "position": "DEFENDER",
         "club": "RB Leipzig",
-        "status": 4,
-        "potential": 2,
+        "status": 2,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 9
+        "price": 23,
+        "scouting_price": 10
     },
     {
         "id": "365",
@@ -4017,8 +4011,8 @@
         "status": 4,
         "potential": 1,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 14
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "366",
@@ -4026,20 +4020,20 @@
         "position": "MIDFIELDER",
         "club": "RB Leipzig",
         "status": 4,
-        "potential": 6,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 10
+        "price": 18,
+        "scouting_price": 6
     },
     {
         "id": "367",
         "name": "Lukas Klostermann",
         "position": "DEFENDER",
         "club": "RB Leipzig",
-        "status": 4,
-        "potential": 1,
+        "status": 6,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 20,
+        "price": 15,
         "scouting_price": 12
     },
     {
@@ -4047,110 +4041,110 @@
         "name": "Castello Lukeba",
         "position": "DEFENDER",
         "club": "RB Leipzig",
-        "status": 2,
-        "potential": 3,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 9
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "369",
         "name": "Antonio Nusa",
         "position": "STRIKER",
         "club": "RB Leipzig",
-        "status": 1,
-        "potential": 2,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 23,
-        "scouting_price": 9
+        "scouting_price": 8
     },
     {
         "id": "370",
         "name": "Lo\u00efs Openda",
         "position": "STRIKER",
         "club": "RB Leipzig",
-        "status": 2,
-        "potential": 1,
+        "status": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 5
+        "price": 16,
+        "scouting_price": 6
     },
     {
         "id": "371",
-        "name": "Willi Orban",
+        "name": "Willi Orb\u00e1n",
         "position": "DEFENDER",
         "club": "RB Leipzig",
         "status": 6,
-        "potential": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 9
+        "price": 15,
+        "scouting_price": 10
     },
     {
         "id": "372",
-        "name": "Assan Ouedraogo",
+        "name": "Assan Ou\u00e9draogo",
         "position": "MIDFIELDER",
         "club": "RB Leipzig",
         "status": 6,
-        "potential": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 11
+        "price": 24,
+        "scouting_price": 8
     },
     {
         "id": "373",
         "name": "Yussuf Poulsen",
         "position": "STRIKER",
         "club": "RB Leipzig",
-        "status": 3,
+        "status": 1,
         "potential": 2,
         "chemistry": 0.5,
         "price": 15,
-        "scouting_price": 8
+        "scouting_price": 7
     },
     {
         "id": "374",
         "name": "David Raum",
         "position": "DEFENDER",
         "club": "RB Leipzig",
-        "status": 4,
-        "potential": 3,
+        "status": 6,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 12
+        "price": 19,
+        "scouting_price": 11
     },
     {
         "id": "375",
         "name": "Xaver Schlager",
         "position": "MIDFIELDER",
         "club": "RB Leipzig",
-        "status": 1,
-        "potential": 2,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
         "price": 16,
-        "scouting_price": 7
+        "scouting_price": 13
     },
     {
         "id": "376",
         "name": "Nicolas Seiwald",
         "position": "MIDFIELDER",
         "club": "RB Leipzig",
-        "status": 3,
-        "potential": 1,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 12
+        "price": 24,
+        "scouting_price": 13
     },
     {
         "id": "377",
-        "name": "Benjamin \u0160esko",
+        "name": "Benjamin \u0160e\u0161ko",
         "position": "STRIKER",
         "club": "RB Leipzig",
-        "status": 6,
-        "potential": 2,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 11
+        "price": 16,
+        "scouting_price": 12
     },
     {
         "id": "378",
@@ -4160,41 +4154,41 @@
         "status": 5,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 12
+        "price": 19,
+        "scouting_price": 8
     },
     {
         "id": "379",
         "name": "Maarten Vandevoordt",
         "position": "GOALKEEPER",
         "club": "RB Leipzig",
-        "status": 6,
-        "potential": 2,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 12
+        "price": 19,
+        "scouting_price": 13
     },
     {
         "id": "380",
         "name": "Arthur Vermeeren",
         "position": "MIDFIELDER",
         "club": "RB Leipzig",
-        "status": 6,
-        "potential": 5,
+        "status": 1,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 7
+        "price": 17,
+        "scouting_price": 14
     },
     {
         "id": "381",
         "name": "Leopold Zingerle",
         "position": "GOALKEEPER",
         "club": "RB Leipzig",
-        "status": 3,
-        "potential": 4,
+        "status": 2,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 12
+        "price": 23,
+        "scouting_price": 8
     },
     {
         "id": "382",
@@ -4202,21 +4196,21 @@
         "position": "STRIKER",
         "club": "SC Freiburg",
         "status": 4,
-        "potential": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 7
+        "price": 19,
+        "scouting_price": 14
     },
     {
         "id": "383",
         "name": "Noah Atubolu",
         "position": "GOALKEEPER",
         "club": "SC Freiburg",
-        "status": 6,
-        "potential": 2,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 13
+        "price": 20,
+        "scouting_price": 5
     },
     {
         "id": "384",
@@ -4224,21 +4218,21 @@
         "position": "STRIKER",
         "club": "SC Freiburg",
         "status": 1,
-        "potential": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 11
+        "price": 18,
+        "scouting_price": 14
     },
     {
         "id": "385",
         "name": "Ritsu D\u014dan",
         "position": "STRIKER",
         "club": "SC Freiburg",
-        "status": 1,
-        "potential": 2,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 11
+        "price": 18,
+        "scouting_price": 7
     },
     {
         "id": "386",
@@ -4248,7 +4242,7 @@
         "status": 2,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 24,
+        "price": 21,
         "scouting_price": 7
     },
     {
@@ -4256,22 +4250,22 @@
         "name": "Matthias Ginter",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 1,
-        "potential": 1,
+        "status": 2,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 9
+        "price": 16,
+        "scouting_price": 14
     },
     {
         "id": "388",
         "name": "Michael Gregoritsch",
         "position": "STRIKER",
         "club": "SC Freiburg",
-        "status": 5,
-        "potential": 3,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 6
+        "price": 18,
+        "scouting_price": 8
     },
     {
         "id": "389",
@@ -4279,76 +4273,76 @@
         "position": "STRIKER",
         "club": "SC Freiburg",
         "status": 3,
-        "potential": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 11
+        "price": 22,
+        "scouting_price": 14
     },
     {
         "id": "390",
         "name": "Manuel Gulde",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 4,
-        "potential": 1,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 11
+        "price": 25,
+        "scouting_price": 8
     },
     {
         "id": "391",
         "name": "Christian G\u00fcnter",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 5,
-        "potential": 6,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 21,
+        "scouting_price": 12
     },
     {
         "id": "392",
-        "name": "Nicolas Höfler",
+        "name": "Nicolas H\u00f6fler",
         "position": "MIDFIELDER",
         "club": "SC Freiburg",
-        "status": 5,
-        "potential": 2,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 17,
-        "scouting_price": 9
+        "scouting_price": 6
     },
     {
         "id": "393",
-        "name": "Lucas Höler",
+        "name": "Lucas H\u00f6ler",
         "position": "STRIKER",
         "club": "SC Freiburg",
-        "status": 4,
-        "potential": 3,
+        "status": 6,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 13
+        "price": 24,
+        "scouting_price": 11
     },
     {
         "id": "394",
         "name": "Jannik Huth",
         "position": "GOALKEEPER",
         "club": "SC Freiburg",
-        "status": 1,
-        "potential": 5,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 14
+        "price": 16,
+        "scouting_price": 5
     },
     {
         "id": "395",
         "name": "Lukas K\u00fcbler",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 2,
-        "potential": 3,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 13
+        "price": 18,
+        "scouting_price": 6
     },
     {
         "id": "396",
@@ -4356,131 +4350,130 @@
         "position": "MIDFIELDER",
         "club": "SC Freiburg",
         "status": 4,
-        "potential": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 6
+        "price": 21,
+        "scouting_price": 8
     },
     {
         "id": "397",
         "name": "Philipp Lienhart",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 5,
-        "potential": 4,
+        "status": 2,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 6
+        "price": 19,
+        "scouting_price": 7
     },
     {
         "id": "398",
         "name": "Jordy Makengo",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 4,
-        "potential": 3,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 8
+        "price": 17,
+        "scouting_price": 5
     },
     {
         "id": "399",
         "name": "Johan Manzambi",
         "position": "MIDFIELDER",
         "club": "SC Freiburg",
-        "status": 1,
-        "potential": 4,
+        "status": 2,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 14
+        "price": 23,
+        "scouting_price": 8
     },
     {
         "id": "400",
         "name": "Florian M\u00fcller",
         "position": "GOALKEEPER",
         "club": "SC Freiburg",
-        "status": 5,
+        "status": 4,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 5
-    }
-,
+        "price": 17,
+        "scouting_price": 11
+    },
     {
         "id": "401",
         "name": "Florent Muslija",
         "position": "MIDFIELDER",
         "club": "SC Freiburg",
-        "status": 3,
-        "potential": 3,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 11
+        "price": 23,
+        "scouting_price": 6
     },
     {
         "id": "402",
         "name": "Bruno Ogbus",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 5,
-        "potential": 6,
+        "status": 1,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 9
+        "price": 24,
+        "scouting_price": 11
     },
     {
         "id": "403",
         "name": "Patrick Osterhage",
         "position": "MIDFIELDER",
         "club": "SC Freiburg",
-        "status": 3,
-        "potential": 6,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 5
+        "price": 16,
+        "scouting_price": 9
     },
     {
         "id": "404",
         "name": "Maximilian Philipp",
         "position": "STRIKER",
         "club": "SC Freiburg",
-        "status": 4,
+        "status": 2,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 7
+        "price": 18,
+        "scouting_price": 11
     },
     {
         "id": "405",
-        "name": "Merlin Röhl",
+        "name": "Merlin R\u00f6hl",
         "position": "MIDFIELDER",
         "club": "SC Freiburg",
-        "status": 4,
+        "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 9
+        "price": 16,
+        "scouting_price": 7
     },
     {
         "id": "406",
         "name": "Max Rosenfelder",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 3,
+        "status": 5,
         "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 8
+        "price": 22,
+        "scouting_price": 10
     },
     {
         "id": "407",
         "name": "Kenneth Schmidt",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 3,
-        "potential": 4,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 18,
+        "price": 22,
         "scouting_price": 10
     },
     {
@@ -4488,109 +4481,109 @@
         "name": "Kiliann Sildillia",
         "position": "DEFENDER",
         "club": "SC Freiburg",
-        "status": 6,
-        "potential": 4,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 12
+        "price": 17,
+        "scouting_price": 13
     },
     {
         "id": "409",
         "name": "Noah Wei\u00dfhaupt",
         "position": "STRIKER",
         "club": "SC Freiburg",
-        "status": 5,
-        "potential": 4,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 6
+        "price": 18,
+        "scouting_price": 5
     },
     {
         "id": "410",
         "name": "Ameen Al-Dakhil",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 2,
-        "potential": 2,
+        "status": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 5
+        "price": 19,
+        "scouting_price": 10
     },
     {
         "id": "411",
         "name": "Fabian Bredlow",
         "position": "GOALKEEPER",
         "club": "VfB Stuttgart",
-        "status": 6,
-        "potential": 6,
+        "status": 2,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 10
+        "price": 18,
+        "scouting_price": 7
     },
     {
         "id": "412",
         "name": "Jeff Chabot",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 3,
-        "potential": 3,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 11
+        "price": 16,
+        "scouting_price": 12
     },
     {
         "id": "413",
         "name": "Anrie Chase",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 1,
+        "status": 4,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 7
+        "price": 18,
+        "scouting_price": 12
     },
     {
         "id": "414",
-        "name": "Ermedin Demirovic",
+        "name": "Ermedin Demirovi\u0107",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 3,
-        "potential": 1,
+        "status": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 12
+        "price": 20,
+        "scouting_price": 6
     },
     {
         "id": "415",
         "name": "Justin Diehl",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 1,
-        "potential": 4,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
         "price": 17,
-        "scouting_price": 12
+        "scouting_price": 10
     },
     {
         "id": "416",
         "name": "Stefan Drlja\u010da",
         "position": "GOALKEEPER",
         "club": "VfB Stuttgart",
-        "status": 1,
-        "potential": 2,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 5
+        "price": 22,
+        "scouting_price": 12
     },
     {
         "id": "417",
         "name": "Wahid Faghir",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 4,
-        "potential": 4,
+        "status": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
+        "price": 21,
         "scouting_price": 14
     },
     {
@@ -4598,32 +4591,32 @@
         "name": "Chris F\u00fchrich",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 1,
-        "potential": 1,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
         "price": 21,
-        "scouting_price": 8
+        "scouting_price": 10
     },
     {
         "id": "419",
         "name": "Ramon Hendriks",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 6,
-        "potential": 6,
+        "status": 2,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 10
+        "price": 17,
+        "scouting_price": 9
     },
     {
         "id": "420",
         "name": "Atakan Karazor",
         "position": "MIDFIELDER",
         "club": "VfB Stuttgart",
-        "status": 6,
-        "potential": 3,
+        "status": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 22,
+        "price": 19,
         "scouting_price": 9
     },
     {
@@ -4631,76 +4624,76 @@
         "name": "Thomas Kastanaras",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 1,
-        "potential": 6,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 6
+        "price": 20,
+        "scouting_price": 11
     },
     {
         "id": "422",
         "name": "Yannik Keitel",
         "position": "MIDFIELDER",
         "club": "VfB Stuttgart",
-        "status": 4,
-        "potential": 1,
+        "status": 2,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 6
+        "price": 18,
+        "scouting_price": 12
     },
     {
         "id": "423",
-        "name": "Frans Krätzig",
+        "name": "Frans Kr\u00e4tzig",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
         "status": 6,
-        "potential": 5,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 19,
+        "scouting_price": 7
     },
     {
         "id": "424",
         "name": "Jamie Leweling",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 2,
-        "potential": 5,
+        "status": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 9
+        "price": 19,
+        "scouting_price": 12
     },
     {
         "id": "425",
         "name": "Enzo Millot",
         "position": "MIDFIELDER",
         "club": "VfB Stuttgart",
-        "status": 6,
-        "potential": 1,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 20,
+        "scouting_price": 9
     },
     {
         "id": "426",
-        "name": "Maximilian Mittelstädt",
+        "name": "Maximilian Mittelst\u00e4dt",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 2,
-        "potential": 4,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 8
+        "price": 21,
+        "scouting_price": 13
     },
     {
         "id": "427",
         "name": "Nikolas Nartey",
         "position": "MIDFIELDER",
         "club": "VfB Stuttgart",
-        "status": 2,
-        "potential": 3,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
+        "price": 24,
         "scouting_price": 7
     },
     {
@@ -4709,9 +4702,9 @@
         "position": "GOALKEEPER",
         "club": "VfB Stuttgart",
         "status": 3,
-        "potential": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 22,
+        "price": 17,
         "scouting_price": 12
     },
     {
@@ -4719,10 +4712,10 @@
         "name": "Christopher Olivier",
         "position": "MIDFIELDER",
         "club": "VfB Stuttgart",
-        "status": 5,
-        "potential": 6,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 19,
+        "price": 21,
         "scouting_price": 11
     },
     {
@@ -4730,10 +4723,10 @@
         "name": "Luca Raimund",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 6,
-        "potential": 6,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
+        "price": 17,
         "scouting_price": 6
     },
     {
@@ -4741,110 +4734,110 @@
         "name": "Fabian Rieder",
         "position": "MIDFIELDER",
         "club": "VfB Stuttgart",
-        "status": 6,
+        "status": 1,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 13
+        "price": 23,
+        "scouting_price": 7
     },
     {
         "id": "432",
         "name": "Anthony Rouault",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 5,
-        "potential": 1,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 14
+        "price": 23,
+        "scouting_price": 6
     },
     {
         "id": "433",
         "name": "Dennis Seimen",
         "position": "GOALKEEPER",
         "club": "VfB Stuttgart",
-        "status": 6,
-        "potential": 3,
+        "status": 1,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 11
+        "price": 21,
+        "scouting_price": 13
     },
     {
         "id": "434",
         "name": "Pascal Stenzel",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 3,
-        "potential": 1,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 13
+        "price": 23,
+        "scouting_price": 9
     },
     {
         "id": "435",
         "name": "Leonidas Stergiou",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 3,
-        "potential": 6,
+        "status": 6,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 5
+        "price": 16,
+        "scouting_price": 13
     },
     {
         "id": "436",
         "name": "Angelo Stiller",
         "position": "MIDFIELDER",
         "club": "VfB Stuttgart",
-        "status": 5,
-        "potential": 5,
+        "status": 1,
+        "potential": 2,
         "chemistry": 0.5,
         "price": 22,
-        "scouting_price": 5
+        "scouting_price": 6
     },
     {
         "id": "437",
-        "name": "El Bilal Toure",
+        "name": "El Bilal Tour\u00e9",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 5,
-        "potential": 6,
+        "status": 6,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 8
+        "price": 23,
+        "scouting_price": 13
     },
     {
         "id": "438",
         "name": "Deniz Undav",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 5,
-        "potential": 6,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 12
+        "price": 15,
+        "scouting_price": 13
     },
     {
         "id": "439",
         "name": "Josha Vagnoman",
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
-        "status": 3,
-        "potential": 4,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 14
+        "price": 15,
+        "scouting_price": 6
     },
     {
         "id": "440",
         "name": "Nick Woltemade",
         "position": "STRIKER",
         "club": "VfB Stuttgart",
-        "status": 1,
-        "potential": 4,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 10
+        "price": 22,
+        "scouting_price": 13
     },
     {
         "id": "441",
@@ -4852,64 +4845,64 @@
         "position": "DEFENDER",
         "club": "VfB Stuttgart",
         "status": 1,
-        "potential": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 12
+        "price": 24,
+        "scouting_price": 10
     },
     {
         "id": "442",
-        "name": "Aliou Balde",
+        "name": "Aliou Bald\u00e9",
         "position": "STRIKER",
         "club": "VfL Bochum",
-        "status": 2,
-        "potential": 2,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 6
+        "price": 22,
+        "scouting_price": 10
     },
     {
         "id": "443",
         "name": "Samuel Bamba",
         "position": "STRIKER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 2,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 5
+        "price": 21,
+        "scouting_price": 14
     },
     {
         "id": "444",
         "name": "Bernardo",
         "position": "DEFENDER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 3,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 13
+        "price": 15,
+        "scouting_price": 7
     },
     {
         "id": "445",
-        "name": "Mat\u00fas Bero",
+        "name": "Mat\u00fa\u0161 Bero",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 4,
-        "potential": 3,
+        "status": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 10
+        "price": 21,
+        "scouting_price": 13
     },
     {
         "id": "446",
         "name": "Myron Boadu",
         "position": "STRIKER",
         "club": "VfL Bochum",
-        "status": 4,
-        "potential": 3,
+        "status": 2,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 17,
+        "price": 18,
         "scouting_price": 11
     },
     {
@@ -4917,56 +4910,55 @@
         "name": "Moritz Broschinski",
         "position": "STRIKER",
         "club": "VfL Bochum",
-        "status": 6,
-        "potential": 2,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 5
+        "price": 15,
+        "scouting_price": 6
     },
     {
         "id": "448",
         "name": "Lukas Daschner",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 4,
-        "potential": 6,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 11
+        "price": 19,
+        "scouting_price": 6
     },
     {
         "id": "449",
         "name": "Dani de Wit",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 4,
+        "status": 1,
         "potential": 4,
         "chemistry": 0.5,
         "price": 19,
-        "scouting_price": 7
+        "scouting_price": 10
     },
     {
         "id": "450",
         "name": "Patrick Drewes",
         "position": "GOALKEEPER",
         "club": "VfL Bochum",
-        "status": 6,
-        "potential": 6,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 9
-    }
-,
+        "price": 20,
+        "scouting_price": 14
+    },
     {
         "id": "451",
         "name": "Agon Elezi",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 5,
-        "potential": 6,
+        "status": 6,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 7
+        "price": 16,
+        "scouting_price": 6
     },
     {
         "id": "452",
@@ -4974,10 +4966,10 @@
         "position": "DEFENDER",
         "club": "VfL Bochum",
         "status": 2,
-        "potential": 6,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 5
+        "price": 15,
+        "scouting_price": 6
     },
     {
         "id": "453",
@@ -4985,31 +4977,31 @@
         "position": "GOALKEEPER",
         "club": "VfL Bochum",
         "status": 3,
-        "potential": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 12
+        "price": 20,
+        "scouting_price": 8
     },
     {
         "id": "454",
         "name": "Philipp Hofmann",
         "position": "STRIKER",
         "club": "VfL Bochum",
-        "status": 3,
-        "potential": 5,
+        "status": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 9
+        "price": 20,
+        "scouting_price": 14
     },
     {
         "id": "455",
         "name": "Gerrit Holtmann",
         "position": "STRIKER",
         "club": "VfL Bochum",
-        "status": 4,
-        "potential": 3,
+        "status": 6,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 23,
+        "price": 20,
         "scouting_price": 14
     },
     {
@@ -5017,99 +5009,99 @@
         "name": "Timo Horn",
         "position": "GOALKEEPER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 3,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 5
+        "price": 17,
+        "scouting_price": 11
     },
     {
         "id": "457",
         "name": "Niklas Jahn",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 6,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 11
+        "price": 25,
+        "scouting_price": 14
     },
     {
         "id": "458",
         "name": "Lennart Koerdt",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 2,
-        "potential": 6,
+        "status": 6,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 8
+        "price": 23,
+        "scouting_price": 13
     },
     {
         "id": "459",
         "name": "Moritz Kwarteng",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 6,
-        "potential": 2,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 5
+        "price": 25,
+        "scouting_price": 14
     },
     {
         "id": "460",
         "name": "Noah Loosli",
         "position": "DEFENDER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 3,
+        "status": 5,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 14
+        "price": 22,
+        "scouting_price": 7
     },
     {
         "id": "461",
         "name": "Anthony Losilla",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 4,
-        "potential": 3,
+        "status": 1,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 11
+        "price": 22,
+        "scouting_price": 8
     },
     {
         "id": "462",
-        "name": "Erhan Masovic",
+        "name": "Erhan Ma\u0161ovi\u0107",
         "position": "DEFENDER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 5,
+        "status": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 10
+        "price": 24,
+        "scouting_price": 12
     },
     {
         "id": "463",
-        "name": "Jakov Medic",
+        "name": "Jakov Medi\u0107",
         "position": "DEFENDER",
         "club": "VfL Bochum",
-        "status": 5,
-        "potential": 6,
+        "status": 4,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 6
+        "price": 15,
+        "scouting_price": 7
     },
     {
         "id": "464",
         "name": "Koji Miyoshi",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 4,
+        "status": 3,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 13
+        "price": 17,
+        "scouting_price": 9
     },
     {
         "id": "465",
@@ -5117,31 +5109,31 @@
         "position": "DEFENDER",
         "club": "VfL Bochum",
         "status": 3,
-        "potential": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 8
+        "price": 19,
+        "scouting_price": 13
     },
     {
         "id": "466",
         "name": "Ivan Ordets",
         "position": "DEFENDER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 3,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
         "price": 22,
-        "scouting_price": 14
+        "scouting_price": 9
     },
     {
         "id": "467",
         "name": "Mats Pannewig",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 3,
-        "potential": 3,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
+        "price": 17,
         "scouting_price": 10
     },
     {
@@ -5150,120 +5142,120 @@
         "position": "DEFENDER",
         "club": "VfL Bochum",
         "status": 3,
-        "potential": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 8
+        "price": 17,
+        "scouting_price": 10
     },
     {
         "id": "469",
         "name": "Manuel Riemann",
         "position": "GOALKEEPER",
         "club": "VfL Bochum",
-        "status": 5,
-        "potential": 3,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 14
+        "price": 16,
+        "scouting_price": 13
     },
     {
         "id": "470",
         "name": "Ibrahima Sissoko",
         "position": "MIDFIELDER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 3,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 7
+        "price": 18,
+        "scouting_price": 6
     },
     {
         "id": "471",
         "name": "Mohammed Tolba",
         "position": "DEFENDER",
         "club": "VfL Bochum",
-        "status": 1,
-        "potential": 1,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 10
+        "price": 18,
+        "scouting_price": 7
     },
     {
         "id": "472",
         "name": "Maximilian Wittek",
         "position": "DEFENDER",
         "club": "VfL Bochum",
-        "status": 6,
-        "potential": 3,
+        "status": 4,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 22,
-        "scouting_price": 9
+        "price": 21,
+        "scouting_price": 10
     },
     {
         "id": "473",
         "name": "Jonathan Akaegbobi",
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
-        "status": 2,
+        "status": 4,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 8
+        "price": 19,
+        "scouting_price": 12
     },
     {
         "id": "474",
         "name": "Mohamed Amoura",
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
-        "status": 1,
-        "potential": 2,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 7
+        "price": 24,
+        "scouting_price": 8
     },
     {
         "id": "475",
-        "name": "Mathys Angely",
+        "name": "Mathys Ang\u00e9ly",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
         "status": 1,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 7
+        "price": 24,
+        "scouting_price": 14
     },
     {
         "id": "476",
         "name": "Maximilian Arnold",
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 3,
+        "status": 1,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 7
+        "price": 22,
+        "scouting_price": 5
     },
     {
         "id": "477",
         "name": "Ridle Baku",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
-        "status": 4,
+        "status": 5,
         "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 7
+        "price": 17,
+        "scouting_price": 12
     },
     {
         "id": "478",
         "name": "Kevin Behrens",
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
-        "status": 4,
-        "potential": 2,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 14
+        "price": 25,
+        "scouting_price": 12
     },
     {
         "id": "479",
@@ -5271,142 +5263,142 @@
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
         "status": 5,
-        "potential": 1,
+        "potential": 4,
         "chemistry": 0.5,
         "price": 18,
-        "scouting_price": 14
+        "scouting_price": 9
     },
     {
         "id": "480",
         "name": "Sebastiaan Bornauw",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 5,
+        "status": 3,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 8
+        "price": 19,
+        "scouting_price": 12
     },
     {
         "id": "481",
-        "name": "Bennit Bröger",
+        "name": "Bennit Br\u00f6ger",
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
         "status": 6,
-        "potential": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 10
+        "price": 17,
+        "scouting_price": 11
     },
     {
         "id": "482",
-        "name": "Bence Dardai",
+        "name": "Bence D\u00e1rdai",
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 6,
+        "status": 1,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 5
+        "price": 24,
+        "scouting_price": 7
     },
     {
         "id": "483",
         "name": "Kilian Fischer",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
-        "status": 4,
+        "status": 1,
         "potential": 2,
         "chemistry": 0.5,
         "price": 16,
-        "scouting_price": 13
+        "scouting_price": 5
     },
     {
         "id": "484",
         "name": "Yannick Gerhardt",
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 6,
+        "status": 3,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 8
+        "price": 16,
+        "scouting_price": 12
     },
     {
         "id": "485",
         "name": "Kamil Grabara",
         "position": "GOALKEEPER",
         "club": "VfL Wolfsburg",
-        "status": 4,
-        "potential": 4,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
         "price": 18,
-        "scouting_price": 11
+        "scouting_price": 12
     },
     {
         "id": "486",
         "name": "Jakub Kami\u0144ski",
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
-        "status": 3,
-        "potential": 5,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 9
+        "price": 21,
+        "scouting_price": 8
     },
     {
         "id": "487",
         "name": "Niklas Klinger",
         "position": "GOALKEEPER",
         "club": "VfL Wolfsburg",
-        "status": 2,
-        "potential": 2,
+        "status": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 6
+        "price": 19,
+        "scouting_price": 12
     },
     {
         "id": "488",
         "name": "Konstantinos Koulierakis",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
-        "status": 1,
-        "potential": 5,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 7
+        "price": 23,
+        "scouting_price": 6
     },
     {
         "id": "489",
         "name": "Lovro Majer",
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 2,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 19,
-        "scouting_price": 7
+        "scouting_price": 10
     },
     {
         "id": "490",
         "name": "Joakim M\u00e6hle",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
-        "status": 4,
-        "potential": 6,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 6
+        "price": 17,
+        "scouting_price": 7
     },
     {
         "id": "491",
         "name": "Marius M\u00fcller",
         "position": "GOALKEEPER",
         "club": "VfL Wolfsburg",
-        "status": 4,
-        "potential": 5,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 7
+        "price": 19,
+        "scouting_price": 9
     },
     {
         "id": "492",
@@ -5414,21 +5406,21 @@
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
         "status": 2,
-        "potential": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 6
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "493",
         "name": "Lukas Nmecha",
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
-        "status": 3,
-        "potential": 3,
+        "status": 6,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 9
+        "price": 25,
+        "scouting_price": 7
     },
     {
         "id": "494",
@@ -5436,32 +5428,32 @@
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
         "status": 3,
-        "potential": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 9
+        "price": 16,
+        "scouting_price": 10
     },
     {
         "id": "495",
         "name": "Salih \u00d6zcan",
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
-        "status": 2,
-        "potential": 6,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 11
+        "price": 25,
+        "scouting_price": 6
     },
     {
         "id": "496",
         "name": "Kevin Paredes",
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 5,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 6
+        "price": 21,
+        "scouting_price": 12
     },
     {
         "id": "497",
@@ -5471,53 +5463,52 @@
         "status": 2,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 7
+        "price": 20,
+        "scouting_price": 14
     },
     {
         "id": "498",
-        "name": "Rogerio",
+        "name": "Rog\u00e9rio",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
-        "status": 1,
+        "status": 6,
         "potential": 5,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 6
+        "price": 17,
+        "scouting_price": 14
     },
     {
         "id": "499",
         "name": "Mattias Svanberg",
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 5,
+        "status": 3,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 9
+        "price": 20,
+        "scouting_price": 6
     },
     {
         "id": "500",
-        "name": "Tiago Tomas",
+        "name": "Tiago Tom\u00e1s",
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 2,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 5
-    }
-,
+        "price": 23,
+        "scouting_price": 10
+    },
     {
         "id": "501",
         "name": "Denis Vavro",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
         "status": 5,
-        "potential": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 8
+        "price": 23,
+        "scouting_price": 5
     },
     {
         "id": "502",
@@ -5525,21 +5516,21 @@
         "position": "MIDFIELDER",
         "club": "VfL Wolfsburg",
         "status": 1,
-        "potential": 5,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 6
+        "price": 18,
+        "scouting_price": 11
     },
     {
         "id": "503",
         "name": "Patrick Wimmer",
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
-        "status": 6,
-        "potential": 6,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 13
+        "price": 18,
+        "scouting_price": 10
     },
     {
         "id": "504",
@@ -5547,98 +5538,98 @@
         "position": "STRIKER",
         "club": "VfL Wolfsburg",
         "status": 5,
-        "potential": 5,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 9
+        "price": 18,
+        "scouting_price": 6
     },
     {
         "id": "505",
-        "name": "Cedric Zesiger",
+        "name": "C\u00e9dric Zesiger",
         "position": "DEFENDER",
         "club": "VfL Wolfsburg",
         "status": 6,
-        "potential": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 9
+        "price": 20,
+        "scouting_price": 5
     },
     {
         "id": "506",
         "name": "Felix Agu",
         "position": "DEFENDER",
         "club": "Werder Bremen",
-        "status": 6,
-        "potential": 2,
+        "status": 5,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 12
+        "price": 23,
+        "scouting_price": 9
     },
     {
         "id": "507",
         "name": "Skelly Alvero",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 5,
-        "potential": 1,
+        "status": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 12
+        "price": 18,
+        "scouting_price": 9
     },
     {
         "id": "508",
         "name": "Mio Backhaus",
         "position": "GOALKEEPER",
         "club": "Werder Bremen",
-        "status": 3,
-        "potential": 3,
+        "status": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 7
+        "price": 23,
+        "scouting_price": 11
     },
     {
         "id": "509",
         "name": "Leonardo Bittencourt",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 2,
-        "potential": 2,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 14
+        "price": 18,
+        "scouting_price": 5
     },
     {
         "id": "510",
         "name": "Oliver Burke",
         "position": "STRIKER",
         "club": "Werder Bremen",
-        "status": 3,
-        "potential": 3,
+        "status": 4,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 8
+        "price": 16,
+        "scouting_price": 10
     },
     {
         "id": "511",
         "name": "Olivier Deman",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 6,
-        "potential": 2,
+        "status": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 21,
-        "scouting_price": 12
+        "price": 16,
+        "scouting_price": 8
     },
     {
         "id": "512",
         "name": "Marvin Ducksch",
         "position": "STRIKER",
         "club": "Werder Bremen",
-        "status": 3,
-        "potential": 5,
+        "status": 6,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 16,
-        "scouting_price": 11
+        "price": 23,
+        "scouting_price": 6
     },
     {
         "id": "513",
@@ -5646,87 +5637,87 @@
         "position": "DEFENDER",
         "club": "Werder Bremen",
         "status": 6,
-        "potential": 5,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 13
+        "price": 22,
+        "scouting_price": 14
     },
     {
         "id": "514",
         "name": "Marco Gr\u00fcll",
         "position": "STRIKER",
         "club": "Werder Bremen",
-        "status": 4,
-        "potential": 6,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 7
+        "price": 23,
+        "scouting_price": 12
     },
     {
         "id": "515",
-        "name": "Isak Hansen-Aaroen",
+        "name": "Isak Hansen-Aar\u00f8en",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 6,
-        "potential": 3,
+        "status": 2,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 12
+        "price": 24,
+        "scouting_price": 7
     },
     {
         "id": "516",
         "name": "Mats Heitmann",
         "position": "DEFENDER",
         "club": "Werder Bremen",
-        "status": 5,
+        "status": 6,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 14
+        "price": 19,
+        "scouting_price": 7
     },
     {
         "id": "517",
         "name": "Anthony Jung",
         "position": "DEFENDER",
         "club": "Werder Bremen",
-        "status": 5,
-        "potential": 6,
+        "status": 1,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 10
+        "price": 15,
+        "scouting_price": 5
     },
     {
         "id": "518",
         "name": "Naby Ke\u00efta",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 6,
-        "potential": 3,
-        "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 10
-    },
-    {
-        "id": "519",
-        "name": "Derrick Köhn",
-        "position": "DEFENDER",
-        "club": "Werder Bremen",
-        "status": 5,
-        "potential": 1,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
         "price": 20,
         "scouting_price": 6
+    },
+    {
+        "id": "519",
+        "name": "Derrick K\u00f6hn",
+        "position": "DEFENDER",
+        "club": "Werder Bremen",
+        "status": 1,
+        "potential": 2,
+        "chemistry": 0.5,
+        "price": 17,
+        "scouting_price": 7
     },
     {
         "id": "520",
         "name": "Markus Kolke",
         "position": "GOALKEEPER",
         "club": "Werder Bremen",
-        "status": 6,
-        "potential": 3,
+        "status": 4,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 19,
-        "scouting_price": 14
+        "price": 18,
+        "scouting_price": 6
     },
     {
         "id": "521",
@@ -5734,21 +5725,21 @@
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
         "status": 1,
-        "potential": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 13
+        "price": 20,
+        "scouting_price": 11
     },
     {
         "id": "522",
-        "name": "Julian Malatini",
+        "name": "Juli\u00e1n Malatini",
         "position": "DEFENDER",
         "club": "Werder Bremen",
-        "status": 6,
-        "potential": 3,
+        "status": 2,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 6
+        "price": 25,
+        "scouting_price": 13
     },
     {
         "id": "523",
@@ -5756,32 +5747,32 @@
         "position": "STRIKER",
         "club": "Werder Bremen",
         "status": 5,
-        "potential": 1,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 14
+        "price": 21,
+        "scouting_price": 11
     },
     {
         "id": "524",
         "name": "Justin Njinmah",
         "position": "STRIKER",
         "club": "Werder Bremen",
-        "status": 6,
+        "status": 1,
         "potential": 3,
         "chemistry": 0.5,
-        "price": 24,
-        "scouting_price": 9
+        "price": 15,
+        "scouting_price": 14
     },
     {
         "id": "525",
         "name": "Leon Opitz",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 5,
-        "potential": 2,
+        "status": 2,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 10
+        "price": 17,
+        "scouting_price": 8
     },
     {
         "id": "526",
@@ -5789,53 +5780,53 @@
         "position": "DEFENDER",
         "club": "Werder Bremen",
         "status": 5,
-        "potential": 3,
+        "potential": 4,
         "chemistry": 0.5,
-        "price": 25,
-        "scouting_price": 13
+        "price": 21,
+        "scouting_price": 10
     },
     {
         "id": "527",
         "name": "Dikeni Salifou",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 4,
-        "potential": 2,
+        "status": 3,
+        "potential": 1,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 14
+        "price": 25,
+        "scouting_price": 10
     },
     {
         "id": "528",
         "name": "Romano Schmid",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 6,
-        "potential": 2,
+        "status": 4,
+        "potential": 5,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 10
+        "price": 24,
+        "scouting_price": 11
     },
     {
         "id": "529",
         "name": "Jens Stage",
         "position": "MIDFIELDER",
         "club": "Werder Bremen",
-        "status": 1,
-        "potential": 3,
+        "status": 2,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 23,
-        "scouting_price": 9
+        "price": 17,
+        "scouting_price": 10
     },
     {
         "id": "530",
         "name": "Niklas Stark",
         "position": "DEFENDER",
         "club": "Werder Bremen",
-        "status": 3,
-        "potential": 6,
+        "status": 2,
+        "potential": 3,
         "chemistry": 0.5,
-        "price": 15,
+        "price": 21,
         "scouting_price": 14
     },
     {
@@ -5843,33 +5834,33 @@
         "name": "Keke Topp",
         "position": "STRIKER",
         "club": "Werder Bremen",
-        "status": 5,
-        "potential": 4,
+        "status": 2,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 20,
-        "scouting_price": 8
+        "price": 22,
+        "scouting_price": 10
     },
     {
         "id": "532",
-        "name": "Milos Veljkovic",
+        "name": "Milo\u0161 Veljkovi\u0107",
         "position": "DEFENDER",
         "club": "Werder Bremen",
         "status": 2,
-        "potential": 3,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 17,
-        "scouting_price": 9
+        "price": 15,
+        "scouting_price": 7
     },
     {
         "id": "533",
         "name": "Mitchell Weiser",
         "position": "DEFENDER",
         "club": "Werder Bremen",
-        "status": 4,
-        "potential": 3,
+        "status": 6,
+        "potential": 2,
         "chemistry": 0.5,
-        "price": 18,
-        "scouting_price": 7
+        "price": 19,
+        "scouting_price": 9
     },
     {
         "id": "534",
@@ -5877,9 +5868,9 @@
         "position": "GOALKEEPER",
         "club": "Werder Bremen",
         "status": 6,
-        "potential": 1,
+        "potential": 6,
         "chemistry": 0.5,
-        "price": 15,
-        "scouting_price": 14
+        "price": 24,
+        "scouting_price": 7
     }
 ]

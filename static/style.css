@@ -69,6 +69,7 @@ input, button {
     border: green thin solid;
     border-radius: 0.5rem;
     width: 9rem;
+    max-width: 9rem;
     min-height: 12rem;
     display: flex;
     flex-direction: column;
