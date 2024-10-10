@@ -8,6 +8,9 @@
 body {
     background-color: white;
 }
+h1 {
+    font-size: 1.2rem;
+}
 
 nav {
     height: 80px;
@@ -27,7 +30,7 @@ nav #stats {
 }
 
 main {
-    padding: 3rem;
+    padding: 1rem 3rem 1rem 3rem;
     display: flex;
     justify-items: center;
     flex-direction: column;
@@ -40,9 +43,21 @@ input, button {
     padding: 0.5rem;
 }
 
+#draft {
+    border: lightgray thin solid;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+    min-height: 24rem;
+}
 #draft_wrapper {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+}
+#deck {
+    border: green solid thin;
+    padding: 0.5rem;
+    min-height: 24rem;
 }
 #deck_wrapper {
     display: flex;
@@ -53,20 +68,24 @@ input, button {
     margin: 0.5rem;
     border: green thin solid;
     border-radius: 0.5rem;
-    width: 12rem;
-    min-height: 16rem;
+    width: 9rem;
+    min-height: 12rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    flex: 1 1 9rem;
 }
 .player_card h2 {
-    font-size: 1.2rem;
+    font-size: 0.9rem;
     margin: 0.5rem;
 }
 .player_card .level {
     display: flex;
     justify-content: space-between;
     padding: 0.5rem;
+}
+.player_card .club {
+    text-align: center;
 }
 .player_card .costs {
     display: flex;

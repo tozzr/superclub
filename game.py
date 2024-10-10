@@ -43,11 +43,10 @@ class Club():
         self.logo = logo
 class Player():
     
-    def __init__(self, id, name, position, nr, club, status, potential, chemistry, price, scouting_price) -> None:
+    def __init__(self, id, name, position, club, status, potential, chemistry, price, scouting_price) -> None:
         self.id = id
         self.name = name
         self.position = position
-        self.nr = nr
         self.club = club
         self.status = status
         self.potential = potential
@@ -59,7 +58,8 @@ class Player():
         return self.id == other.id
     
 def get_players():
-    with open('players.json', 'r') as file:
+    with open('players2.json', 'r') as file:
+    #with open('bundesliga_players_2024_2025.json', 'r') as file:
         data = json.load(file)
         players = [Player(**player_data) for player_data in data]
         return players
