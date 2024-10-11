@@ -6,12 +6,6 @@ class Game():
     def __init__(self):
         self.clubname = ''
         self.assets = 100
-        with open('clubs.json', 'r') as file:
-            data = json.load(file)
-            self.clubs = [Club(**club_data) for club_data in data]
-        with open('players.json', 'r') as file:
-            data = json.load(file)
-            self.players = [Player(**player_data) for player_data in data]
     
     def get_assets(self):
         return self.assets
@@ -41,49 +35,3 @@ class Club():
         self.name = name
         self.stadium = stadium
         self.logo = logo
-class Player():
-    
-    def __init__(self, id, name, position, club, status, potential, chemistry, price, scouting_price) -> None:
-        self.id = id
-        self.name = name
-        self.position = position
-        self.club = club
-        self.status = status
-        self.potential = potential
-        self.chemistry = chemistry
-        self.price = price
-        self.scouting_price = scouting_price
-
-    def __eq__(self, other: object) -> bool:
-        return self.id == other.id
-    
-def get_players():
-    with open('players2.json', 'r') as file:
-    #with open('bundesliga_players_2024_2025.json', 'r') as file:
-        data = json.load(file)
-        players = [Player(**player_data) for player_data in data]
-        return players
-    return []
-
-def get_player_by_id(id: str) -> Player | None:
-    for player in get_players():
-        if id == player.id:
-            return player
-    return None
-    
-def get_players_without(ids: str):
-    exclude_players = get_players_for_ids(ids)
-    id_list = ids.split(',')
-    players = get_players()
-    for player in exclude_players:
-        players.pop(players.index(player))
-    return players
-
-def get_players_for_ids(ids: str):
-    players = []
-    id_list = ids.split(',')
-    for player in get_players():
-        for id in id_list:
-            if id == player.id:
-                players.append(player)
-    return players

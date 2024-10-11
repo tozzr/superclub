@@ -62,6 +62,7 @@ input, button {
 #deck_wrapper {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 .player_card {
     padding: 0.5rem;

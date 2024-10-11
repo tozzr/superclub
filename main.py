@@ -9,7 +9,7 @@ from typing import Annotated, Union
 from pydantic import BaseModel
 
 from authentication import User, UserAnonymousException, get_user, save_userdata
-from game import get_players_without, get_players_for_ids, get_player_by_id
+from players import Players, Player
 
 app = FastAPI()
 add_pagination(app)
@@ -38,45 +38,49 @@ async def user_anonymous_exception_handler(request: Request, exc: UserAnonymousE
         status_code=status.HTTP_302_FOUND
     )
     
+UserDep = Annotated[str, Depends(get_user)]
+
 @app.get("/", response_class=HTMLResponse)
-async def index(request: Request, user: Annotated[str, Depends(get_user)]):
+async def index(request: Request, user: UserDep):
     return templates.TemplateResponse(request=request, name="index.html",context={"user": user})
 
+PlayersDep = Annotated[Players, Depends(Players)]
+
 @app.get("/board.html", response_class=HTMLResponse)
-async def board(request: Request, user: Annotated[str, Depends(get_user)]):
-    user.players = get_players_for_ids(user.player_ids)
+async def board(request: Request, user: UserDep, players: PlayersDep):
+    user.players = players.get_players_for_ids(user.player_ids)
     context={
         "user": user,
-        "players": get_players_without(user.player_ids)
+        "players": players.get_players_without(user.player_ids)
     }
     return templates.TemplateResponse(request=request, name="update_board.html",context=context)
 
 @app.post("/select-player/{player_id}", response_class=HTMLResponse)
-async def select_player_in_draft(request: Request, player_id: str, user: Annotated[str, Depends(get_user)]):
-    player = get_player_by_id(player_id)
+async def select_player_in_draft(request: Request, player_id: str, user: UserDep, players: PlayersDep):
+    player = players.get_player_by_id(player_id)
     user.status += player.status
     user.player_ids = player_id if user.player_ids == '' else user.player_ids + ',' + player_id
-    user.players = get_players_for_ids(user.player_ids)
+    user.players = players.get_players_for_ids(user.player_ids)
     context={
         "user": user,
-        "players": get_players_without(user.player_ids)
+        "players": players.get_players_without(user.player_ids)
     }
     response = templates.TemplateResponse(request=request, name="update_board.html",context=context)
     save_userdata(user, response)
     return response
 
 @app.post("/deselect-player/{player_id}", response_class=HTMLResponse)
-async def deselect_player(request: Request, player_id: str, user: Annotated[str, Depends(get_user)]):
+async def deselect_player(request: Request, player_id: str, user: UserDep, players: PlayersDep):
     print(player_id)
-    player = get_player_by_id(player_id)
+    player = players.get_player_by_id(player_id)
     user.status -= player.status
     a = user.player_ids.split(',')
     a.remove(player_id)
     user.player_ids = ",".join(a)
-    user.players = get_players_for_ids(user.player_ids)
+    user.players = players.get_players_for_ids(user.player_ids)
     context={
         "user": user,
-        "players": get_players_without(user.player_ids)
+        "players": players.get_players_without(user.player_ids)
     }
     response = templates.TemplateResponse(request=request, name="update_board.html",context=context)
     save_userdata(user, response)
@@ -84,33 +88,33 @@ async def deselect_player(request: Request, player_id: str, user: Annotated[str,
 
 
 @app.post("/buy-player/{player_id}", response_class=HTMLResponse)
-async def buy_player(request: Request, player_id: str, user: Annotated[str, Depends(get_user)]):
-    player = get_player_by_id(player_id)
+async def buy_player(request: Request, player_id: str, user: UserDep, players: PlayersDep):
+    player = players.get_player_by_id(player_id)
     if user.assets - player.price > 0:
         user.assets += -1 * player.price
         user.status += player.status
         user.player_ids = player_id if user.player_ids == '' else user.player_ids + ',' + player_id
-    user.players = get_players_for_ids(user.player_ids)
+    user.players = players.get_players_for_ids(user.player_ids)
     context={
         "user": user,
-        "players": get_players_without(user.player_ids)
+        "players": players.get_players_without(user.player_ids)
     }
     response = templates.TemplateResponse(request=request, name="update_board.html",context=context)
     save_userdata(user, response)
     return response
 
 @app.post("/sell-player/{player_id}", response_class=HTMLResponse)
-async def sell_player(request: Request, player_id: str, user: Annotated[str, Depends(get_user)]):
-    player = get_player_by_id(player_id)
+async def sell_player(request: Request, player_id: str, user: UserDep, players: PlayersDep):
+    player = players.get_player_by_id(player_id)
     user.assets += player.scouting_price
     user.status -= player.status
     a = user.player_ids.split(',')
     a.remove(player_id)
     user.player_ids = ",".join(a)
-    user.players = get_players_for_ids(user.player_ids)
+    user.players = players.get_players_for_ids(user.player_ids)
     context={
         "user": user,
-        "players": get_players_without(user.player_ids)
+        "players": players.get_players_without(user.player_ids)
     }
     response = templates.TemplateResponse(request=request, name="update_board.html",context=context)
     save_userdata(user, response)
