@@ -1,0 +1,22 @@
+<div id="stats" hx-swap-oob="true">
+    <div class="assets">{{user.assets}} M</div>
+    <div class="status"><i class='bx bxs-star' ></i>{{user.status}}</div>
+    <div class="potential"><i class='bx bx-star' ></i></i>{{user.potential}}</div>
+    <div class="expires">expires: </i>{{user.expires}}</div>
+</div>
+
+<div id="players" hx-swap-oob="true">
+    <h1>players</h1>
+    <div class="flex_wrapper">
+        {% set action_label = 'select' %}
+        {% for player in players.items %}
+            {% set action = "/select-player/" + player.id %}
+            {% include 'player_card.html' %}
+        {% endfor %}
+    </div>
+    <div class="pagination">
+        {% if players.previous %}<a href="#" hx-get="{{players.previous}}" hx-trigger="click"><</a>{% endif %}
+        {{players.page}} / {{players.pages}}
+        {% if players.next %}<a href="#" hx-get="{{players.next}}" hx-trigger="click">></a>{% endif %}
+    </div>
+</div>

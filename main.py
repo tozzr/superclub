@@ -119,3 +119,25 @@ async def sell_player(request: Request, player_id: str, user: UserDep, players: 
     response = templates.TemplateResponse(request=request, name="update_board.html",context=context)
     save_userdata(user, response)
     return response
+
+@app.get("/chmod", response_class=HTMLResponse)
+async def sell_player(request: Request, user: UserDep, players: PlayersDep):
+    user.usergroup = 'admin' if user.usergroup == 'gamer' else 'gamer'
+    response = RedirectResponse(url='/', status_code=status.HTTP_303_SEE_OTHER)
+    save_userdata(user, response)
+    return response
+
+@app.get("/players.html", response_class=HTMLResponse)
+async def sell_player(request: Request, user: UserDep, players: PlayersDep):
+    context={
+        "user": user
+    }
+    return templates.TemplateResponse(request=request, name="players.html",context=context)
+
+@app.get("/players-list.html", response_class=HTMLResponse)
+async def sell_player(request: Request, user: UserDep, players: PlayersDep, page: int | None = 1, size: int | None = 16):
+    context={
+        "user": user,
+        "players": players.get_players('/players-list.html', page, size)
+    }
+    return templates.TemplateResponse(request=request, name="players_list.html",context=context)

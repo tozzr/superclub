@@ -1,0 +1,5 @@
+{% extends 'template.html' %}
+{% block content %}
+<div id="players"></div>
+<div hx-get="/players-list.html" hx-swap="outerHTML" hx-trigger="load"></div>
+{% endblock %}

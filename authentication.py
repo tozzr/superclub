@@ -29,13 +29,14 @@ def create_jw_token(data: dict):
 router = APIRouter()
 
 class User():
-    def __init__(self, username: str, assets: int | None = 100, status: int | None = 0, potential: int | None = 0, expires: str | None = ''):
+    def __init__(self, username: str, assets: int | None = 100, status: int | None = 0, potential: int | None = 0, expires: str | None = '', usergroup: str | None = 'gamer'):
         self.username = username
         self.assets = assets
         self.status = status
         self.potential = potential
         self.player_ids = ''
         self.expires = expires
+        self.usergroup = usergroup
         
 @router.post("/token")
 async def login_for_jwt(form_data: Annotated[OAuth2PasswordRequestForm, Depends()]):
@@ -79,7 +80,8 @@ def get_user(request: Request) -> User | None:
         assets = decode_token(token, 'assets')
         status = decode_token(token, 'status')
         potential = decode_token(token, 'status')
-        user = User(username, assets, status, potential, expires)
+        usergroup = decode_token(token, 'usergroup')
+        user = User(username, assets, status, potential, expires, usergroup)
         user.player_ids = decode_token(token, 'player_ids')
         return user
     raise UserAnonymousException(message="user not authenticated")
@@ -91,7 +93,8 @@ def save_userdata(user: User, response: Response):
         "status": user.status,
         "potential": user.potential,
         "player_ids": user.player_ids,
-        "exp": user.expires
+        "exp": user.expires,
+        "usergroup": user.usergroup
     })
     response.set_cookie(key="jwt", value=jw_token, httponly=True)
     

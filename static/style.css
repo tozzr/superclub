@@ -1,26 +1,50 @@
+:root {
+    --background: #121c2a;
+    --background-light: #1f2940;
+    --background-lighter: #2b3548;
+    --font-color: #6377a6;
+    --font-color-light: #b2b4b9;
+    --font-color-lighter: #f5f6f7;
+    --font-color-lightest: #fff;
+    --button-background: #1f2940;
+    --button-primary: #4d48e5;
+}
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: green;
+    color: var(--font-color);
 }
 body {
-    background-color: white;
+    background-color: var(--background);
 }
 h1 {
     font-size: 1.2rem;
 }
-
+.w-100p {
+    width: 100%;
+}
+.flex {
+    display: flex;
+}
+.flex_wrapper {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
 nav {
     height: 80px;
     width: 100%;
     border-bottom: yellowgreen thin solid;
     display: flex;
     justify-content: space-between;
+    align-content: baseline;
     padding: 1.2rem;
+    color: var(--font-color-lighter);
 }
 nav .brand {
+    color: var(--font-color-light);
     font-size: 1.8rem;
 }
 nav #stats {
@@ -43,42 +67,47 @@ input, button {
     padding: 0.5rem;
 }
 
+.btn {
+    background-color: var(--button-background);
+    color: var(--font-color-light);
+    border: thin solid var(--font-color-light);
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+.btn-primary {
+    background-color: var(--button-primary);
+    border: thin solid var(--button-primary);
+}
+
+#draft, #deck, #players {
+    background-color: var(--background-light);
+    padding: 0.5rem;
+    min-height: 24rem;
+}
 #draft {
-    border: lightgray thin solid;
-    padding: 0.5rem;
     margin-bottom: 1rem;
-    min-height: 24rem;
 }
-#draft_wrapper {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-#deck {
-    border: green solid thin;
-    padding: 0.5rem;
-    min-height: 24rem;
-}
-#deck_wrapper {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
+
 .player_card {
     padding: 0.5rem;
     margin: 0.5rem;
-    border: green thin solid;
+    background-color: var(--background-lighter);
+    /*border: var(--font-color) thin solid;*/
     border-radius: 0.5rem;
     width: 9rem;
-    max-width: 9rem;
-    min-height: 12rem;
+    max-width: 12rem;
+    min-height: 16rem;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    flex: 1 1 9rem;
+    flex: 1 1 20rem;
 }
 .player_card h2 {
+    color: var(--font-color-light);
     font-size: 0.9rem;
+    line-height: 2rem;
+    padding-bottom: 0.5rem;
     margin: 0.5rem;
 }
 .player_card .level {
@@ -94,23 +123,25 @@ input, button {
     justify-content: space-between;
     margin: 0.5rem;
 }
-.player_card button {
-    border: green thin solid;
-    border-radius: 0.5rem;
-    width: 100%;
+.player_card .costs i {
+    color: var(--font-color-light);
 }
-.player_card.striker {
-    background-color: rgb(180, 240, 180);
+.position {
+    width: 1.2rem;
+    height: 1.2rem;
 }
-.player_card.striker > * {
-    color: #fff;
+.striker {
+    border-bottom: solid thin #0d0;
 }
-.player_card.midfielder {
-    background-color: rgb(240, 240, 140);
+.midfielder {
+    border-bottom: solid thin #ff0;
 }
-.player_card.defender {
-    background-color: rgb(240, 180, 180);
+.defender {
+    border-bottom: solid thin #e00;
 }
-.player_card.goalkeeper {
-    background-color: #fee;
+.goalkeeper {
+    border-bottom: solid thin pink;
+}
+.pagination {
+    text-align: center;
 }

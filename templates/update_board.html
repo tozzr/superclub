@@ -7,18 +7,18 @@
 
 <div id="draft" hx-swap-oob="true">
     <h1>draft</h1>
-    <div id="draft_wrapper">
+    <div class="flex_wrapper">
     {% set action_label = 'select' %}
-    {% for player in players %}
+    {% for player in players.items %}
         {% set action = "/select-player/" + player.id %}
         {% include 'player_card.html' %}
     {% endfor %}
-</div>
+    </div>
 </div>
 
 <div id="deck" hx-swap-oob="true">
     <h1>deck</h1>
-    <div id="deck_wrapper">
+    <div class="flex_wrapper">
     {% set action_label = 'deselect' %}
     {% for player in user.players %}
     {% set action = "/deselect-player/" + player.id %}

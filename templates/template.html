@@ -12,15 +12,12 @@
 </head>
 <body>
   <nav>
-    <div class="brand">superclub.online</div>
+    <div class="brand"><a href="/">superclub.online</a></div>
     {% if user %}
       <div class="user">{{user.username}}</div>
-      <div id="stats">
-        <div class="assets">{{user.assets}} M</div>
-        <div class="status"><i class='bx bxs-star' ></i>{{user.status}}</div>
-        <div class="potential"><i class='bx bx-star' ></i></i>{{user.potential}}</div>
-        <div class="expires">expires: </i>{{user.expires}}</div>
-      </div>
+      <div>usergroup: {{user.usergroup}}</div>
+      <div id="stats"></div>
+      <div><a href="/players.html"><i class='bx bxs-user-badge' title="players"></i></a></div>
       <div>
         <a href="/auth/logout.html">Spiel beenden</a>
     {% else %}
